@@ -172,6 +172,19 @@ function renderStory(item, isLead) {
     <article class="${wrapperClass} ${isRead ? "is-read" : ""}">
       <p class="story-kicker">${escapeHtml(item.category)} · ${escapeHtml((item.language || "en").toUpperCase())}</p>
       <h3 class="story-title">${escapeHtml(item.title)}</h3>
+      ${
+        item.hasImage
+          ? `
+            <div class="image-shell">
+              ${
+                imageVisible
+                  ? `<img class="story-image" src="${escapeAttribute(item.image)}" alt="" loading="lazy" decoding="async" />`
+                  : `<p class="story-image-note">Image hidden by default. Load it only when you want it.</p>`
+              }
+            </div>
+          `
+          : ""
+      }
       <p class="story-summary">${escapeHtml(summary)}</p>
       <p class="story-meta">
         <span>${escapeHtml(item.source)}</span>
@@ -210,19 +223,6 @@ function renderStory(item, isLead) {
             : ""
         }
       </div>
-      ${
-        item.hasImage
-          ? `
-            <div class="image-shell">
-              ${
-                imageVisible
-                  ? `<img class="story-image" src="${escapeAttribute(item.image)}" alt="" loading="lazy" decoding="async" />`
-                  : `<p class="story-image-note">Image hidden by default. Load it only when you want it.</p>`
-              }
-            </div>
-          `
-          : ""
-      }
     </article>
   `;
 }
