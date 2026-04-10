@@ -1,0 +1,18 @@
+[
+  {
+    "id": "onmanorama-kerala",
+    "name": "Onmanorama Kerala",
+    "url": "https://www.onmanorama.com/kerala.feeds.onmrss.xml",
+    "category": "Kerala",
+    "defaultLanguage": "en",
+    "enabled": true
+  },
+  {
+    "id": "oneindia-malayalam",
+    "name": "OneIndia Malayalam",
+    "url": "https://malayalam.oneindia.com/rss/feeds/malayalam-news-fb.xml",
+    "category": "Malayalam",
+    "defaultLanguage": "ml",
+    "enabled": true
+  }
+]

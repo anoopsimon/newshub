@@ -1,0 +1,7 @@
+.git
+.github
+node_modules
+config
+scripts
+README.md
+package.json

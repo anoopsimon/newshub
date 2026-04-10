@@ -1,0 +1,23 @@
+{
+  "name": "News Desk",
+  "short_name": "News Desk",
+  "description": "A lightweight personal news reader for Malayalam, Kerala, India, and world headlines.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f4ee",
+  "theme_color": "#9f1d20",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

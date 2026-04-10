@@ -1,0 +1,15 @@
+{
+  "name": "news-desk",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A lightweight personal news website and PWA built with plain HTML, CSS, and vanilla JavaScript.",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "fetch:news": "node scripts/fetch-news.mjs",
+    "serve": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs"
+  }
+}

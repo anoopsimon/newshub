@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title>News Desk Icon</title>
+  <rect width="512" height="512" rx="96" fill="#9f1d20" />
+  <rect x="102" y="108" width="308" height="296" rx="18" fill="#f8f4ed" />
+  <rect x="134" y="146" width="174" height="26" rx="8" fill="#9f1d20" />
+  <rect x="134" y="190" width="244" height="16" rx="8" fill="#c8beb2" />
+  <rect x="134" y="224" width="244" height="16" rx="8" fill="#c8beb2" />
+  <rect x="134" y="258" width="244" height="16" rx="8" fill="#c8beb2" />
+  <rect x="134" y="308" width="116" height="52" rx="10" fill="#d9cbbd" />
+  <rect x="266" y="308" width="112" height="16" rx="8" fill="#c8beb2" />
+  <rect x="266" y="342" width="112" height="16" rx="8" fill="#c8beb2" />
+</svg>

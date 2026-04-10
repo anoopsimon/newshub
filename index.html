@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#9f1d20" />
+    <meta name="description" content="A lightweight personal news reader for Malayalam, Kerala, India, and world headlines." />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="News Desk" />
+    <title>News Desk</title>
+    <link rel="manifest" href="manifest.json" />
+    <link rel="icon" href="icons/icon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="icons/icon.svg" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+
+    <header class="site-header">
+      <div class="brand-block">
+        <p class="eyebrow">Personal News Reader</p>
+        <h1>News Desk</h1>
+        <p class="strapline">Malayalam, Kerala, India, and world headlines in one lightweight reader.</p>
+      </div>
+
+      <div class="header-actions" aria-label="Site settings">
+        <button id="theme-toggle" class="button button-secondary" type="button" aria-live="polite">
+          Switch theme
+        </button>
+      </div>
+    </header>
+
+    <nav class="tab-bar" aria-label="Sections">
+      <button class="tab is-active" type="button" data-tab="All">All</button>
+      <button class="tab" type="button" data-tab="Malayalam">Malayalam</button>
+      <button class="tab" type="button" data-tab="Kerala">Kerala</button>
+      <button class="tab" type="button" data-tab="India">India</button>
+      <button class="tab" type="button" data-tab="World">World</button>
+      <button class="tab" type="button" data-tab="Saved">Saved</button>
+    </nav>
+
+    <main id="main-content" class="page-shell" tabindex="-1">
+      <section class="status-strip" aria-label="Reading status">
+        <p id="status-summary">Loading headlines...</p>
+        <p id="last-updated">Waiting for feed data.</p>
+      </section>
+
+      <section id="reader-panel" class="reader-panel is-hidden" aria-labelledby="reader-heading">
+        <div class="section-heading">
+          <h2 id="reader-heading">Article reader</h2>
+        </div>
+        <div class="reader-shell">
+          <div class="reader-header">
+            <div>
+              <p id="reader-source" class="story-kicker">Source</p>
+              <h3 id="reader-title" class="reader-title">Select a story to read it here.</h3>
+            </div>
+            <div class="reader-actions">
+              <a id="reader-open-source" class="button button-secondary" href="#" target="_blank" rel="noopener noreferrer">
+                Open source
+              </a>
+              <button id="reader-close" class="button button-quiet" type="button">Close</button>
+            </div>
+          </div>
+          <p class="reader-note">
+            The article opens inside this page when the publisher allows embedding. If the frame is blank or blocked,
+            use Open source.
+          </p>
+          <iframe
+            id="reader-frame"
+            class="reader-frame"
+            title="Article reader"
+            loading="lazy"
+            referrerpolicy="strict-origin-when-cross-origin"
+          ></iframe>
+        </div>
+      </section>
+
+      <div class="layout-grid">
+        <section class="lead-column" aria-labelledby="lead-heading">
+          <div class="section-heading">
+            <h2 id="lead-heading">Top story</h2>
+          </div>
+          <div id="top-story" class="story-slot" aria-live="polite"></div>
+        </section>
+
+        <section class="latest-column" aria-labelledby="latest-heading">
+          <div class="section-heading">
+            <h2 id="latest-heading">Latest headlines</h2>
+          </div>
+          <div id="latest-list" class="story-list" aria-live="polite"></div>
+        </section>
+
+        <aside class="side-column" aria-labelledby="notes-heading">
+          <div class="section-heading">
+            <h2 id="notes-heading">Reading notes</h2>
+          </div>
+          <div class="side-panel">
+            <p id="counts-panel">Unread: 0 · Saved: 0</p>
+            <div id="saved-preview" class="saved-preview"></div>
+          </div>
+        </aside>
+      </div>
+    </main>
+
+    <template id="empty-state-template">
+      <article class="empty-state">
+        <h3>No stories in this section</h3>
+        <p>Run the feed update script or switch to another section.</p>
+      </article>
+    </template>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>

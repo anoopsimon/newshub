@@ -1,0 +1,89 @@
+name: Build and Deploy News Desk
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - data/news.json
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: news-desk-pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    outputs:
+      should_deploy: ${{ steps.decision.outputs.should_deploy }}
+      news_changed: ${{ steps.diff.outputs.news_changed }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch and normalize news
+        run: node scripts/fetch-news.mjs
+
+      - name: Detect generated changes
+        id: diff
+        run: |
+          if git diff --quiet -- data/news.json; then
+            echo "news_changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "news_changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Decide whether to deploy
+        id: decision
+        run: |
+          if [ "${{ github.event_name }}" = "push" ] || [ "${{ steps.diff.outputs.news_changed }}" = "true" ]; then
+            echo "should_deploy=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "should_deploy=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit updated feed data
+        if: steps.diff.outputs.news_changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          git commit -m "chore: refresh news data"
+          git push
+
+      - name: Configure GitHub Pages
+        if: steps.decision.outputs.should_deploy == 'true'
+        uses: actions/configure-pages@v5
+
+      - name: Upload GitHub Pages artifact
+        if: steps.decision.outputs.should_deploy == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+  deploy:
+    needs: build
+    if: needs.build.outputs.should_deploy == 'true'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

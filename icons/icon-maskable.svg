@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title>News Desk Maskable Icon</title>
+  <rect width="512" height="512" fill="#9f1d20" />
+  <rect x="84" y="92" width="344" height="328" rx="28" fill="#f8f4ed" />
+  <rect x="126" y="142" width="192" height="32" rx="10" fill="#9f1d20" />
+  <rect x="126" y="198" width="260" height="20" rx="10" fill="#c8beb2" />
+  <rect x="126" y="238" width="260" height="20" rx="10" fill="#c8beb2" />
+  <rect x="126" y="278" width="260" height="20" rx="10" fill="#c8beb2" />
+  <rect x="126" y="332" width="122" height="54" rx="12" fill="#d9cbbd" />
+  <rect x="268" y="332" width="118" height="20" rx="10" fill="#c8beb2" />
+  <rect x="268" y="366" width="118" height="20" rx="10" fill="#c8beb2" />
+</svg>
