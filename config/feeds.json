@@ -14,5 +14,37 @@
     "category": "Malayalam",
     "defaultLanguage": "ml",
     "enabled": true
+  },
+  {
+    "id": "oneindia-kottayam",
+    "name": "OneIndia Kottayam",
+    "url": "https://malayalam.oneindia.com/rss/feeds/malayalam-kottayam-fb.xml",
+    "category": "Kottayam",
+    "defaultLanguage": "ml",
+    "enabled": true
+  },
+  {
+    "id": "oneindia-trivandrum",
+    "name": "OneIndia Trivandrum",
+    "url": "https://malayalam.oneindia.com/rss/feeds/malayalam-thiruvananthapuram-fb.xml",
+    "category": "Trivandrum",
+    "defaultLanguage": "ml",
+    "enabled": true
+  },
+  {
+    "id": "oneindia-kochi",
+    "name": "OneIndia Kochi",
+    "url": "https://malayalam.oneindia.com/rss/feeds/malayalam-ernakulam-fb.xml",
+    "category": "Kochi",
+    "defaultLanguage": "ml",
+    "enabled": true
+  },
+  {
+    "id": "oneindia-focus",
+    "name": "OneIndia Focus",
+    "url": "https://malayalam.oneindia.com/rss/feeds/malayalam-in-focus-fb.xml",
+    "category": "Focus",
+    "defaultLanguage": "ml",
+    "enabled": true
   }
 ]

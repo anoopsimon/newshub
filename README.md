@@ -13,7 +13,7 @@ The site reads a single generated file, `data/news.json`, and renders it with pl
 ## Features
 
 - Lightweight editorial layout with a mobile-first reading experience
-- Tabs for All, Malayalam, Kerala, India, World, and Saved
+- Tabs for All, Malayalam, Kottayam, Trivandrum, Kochi, Focus, Kerala, India, World, and Saved
 - Strict Malayalam filtering using normalized `language === "ml"`
 - Images never load by default; users must tap `Load image`
 - Read and saved states stored locally with `localStorage`
@@ -48,6 +48,15 @@ Each feed object supports:
 - optional `parserHints`
 
 `parserHints` is available for feed-specific XML variations without changing the core script. Supported hint groups are `itemTags`, `titleTags`, `summaryTags`, `linkTags`, and `publishedTags`.
+
+Current seeded feeds include:
+
+- Onmanorama Kerala
+- OneIndia Malayalam news
+- OneIndia Kottayam
+- OneIndia Trivandrum
+- OneIndia Kochi
+- OneIndia Focus
 
 ## How to add a new RSS feed
 

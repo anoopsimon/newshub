@@ -5,7 +5,7 @@ const STORAGE_KEYS = {
   ui: "news-ui-state",
 };
 
-const TAB_ORDER = ["All", "Malayalam", "Kerala", "India", "World", "Saved"];
+const TAB_ORDER = ["All", "Malayalam", "Kottayam", "Trivandrum", "Kochi", "Focus", "Kerala", "India", "World", "Saved"];
 const state = {
   activeTab: "All",
   items: [],
