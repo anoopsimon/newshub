@@ -221,12 +221,29 @@ a {
   font-size: 0.9rem;
 }
 
-.reader-frame {
-  width: 100%;
-  min-height: 60vh;
+.reader-meta {
+  margin: 0.85rem 0 0;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
+.reader-summary {
+  margin: 0.85rem 0 0;
+  color: var(--text-body);
+  font-size: 1rem;
+}
+
+.reader-image-shell {
   margin-top: 1rem;
+}
+
+.reader-image-shell .button {
+  margin-bottom: 0.85rem;
+}
+
+.reader-image-shell img {
+  width: 100%;
   border: 1px solid var(--border);
-  background: #ffffff;
 }
 
 .section-heading {

@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#9f1d20" />
     <meta name="description" content="A lightweight personal news reader for Malayalam, Kerala, India, and world headlines." />
+    <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="default" />
     <meta name="apple-mobile-web-app-title" content="News Desk" />
@@ -57,23 +58,18 @@
               <h3 id="reader-title" class="reader-title">Select a story to read it here.</h3>
             </div>
             <div class="reader-actions">
-              <a id="reader-open-source" class="button button-secondary" href="#" target="_blank" rel="noopener noreferrer">
-                Open source
+              <a id="reader-open-source" class="button button-secondary" href="#" rel="noopener noreferrer">
+                Open original
               </a>
               <button id="reader-close" class="button button-quiet" type="button">Close</button>
             </div>
           </div>
-          <p class="reader-note">
-            The article opens inside this page when the publisher allows embedding. If the frame is blank or blocked,
-            use Open source.
+          <p id="reader-published" class="reader-meta">Publication time</p>
+          <p id="reader-summary" class="reader-summary">
+            Select a story to view the summary here. Use Open original to read the full article on the publisher site.
           </p>
-          <iframe
-            id="reader-frame"
-            class="reader-frame"
-            title="Article reader"
-            loading="lazy"
-            referrerpolicy="strict-origin-when-cross-origin"
-          ></iframe>
+          <div id="reader-image-shell" class="reader-image-shell"></div>
+          <p class="reader-note">Open original uses the same tab. Use your browser Back button to return here.</p>
         </div>
       </section>
 

@@ -2,6 +2,7 @@ const STORAGE_KEYS = {
   theme: "news-theme",
   read: "news-read-items",
   saved: "news-saved-items",
+  ui: "news-ui-state",
 };
 
 const TAB_ORDER = ["All", "Malayalam", "Kerala", "India", "World", "Saved"];
@@ -28,9 +29,11 @@ const elements = {
   readerPanel: document.querySelector("#reader-panel"),
   readerTitle: document.querySelector("#reader-title"),
   readerSource: document.querySelector("#reader-source"),
-  readerFrame: document.querySelector("#reader-frame"),
   readerOpenSource: document.querySelector("#reader-open-source"),
   readerClose: document.querySelector("#reader-close"),
+  readerPublished: document.querySelector("#reader-published"),
+  readerSummary: document.querySelector("#reader-summary"),
+  readerImageShell: document.querySelector("#reader-image-shell"),
 };
 
 bootstrap();
@@ -39,6 +42,7 @@ async function bootstrap() {
   applyTheme(state.theme);
   bindEvents();
   await loadNews();
+  restoreUiState();
   render();
   registerServiceWorker();
 }
@@ -59,6 +63,11 @@ function bindEvents() {
 
   elements.readerClose.addEventListener("click", () => {
     closeReader();
+    render();
+  });
+
+  elements.readerOpenSource.addEventListener("click", () => {
+    persistUiState();
   });
 
   document.addEventListener("click", (event) => {
@@ -119,6 +128,7 @@ function render() {
   elements.countsPanel.textContent = `Unread: ${unreadCount} · Saved: ${state.savedIds.size}`;
   renderSavedPreview();
   renderReader();
+  persistUiState();
 
   renderSlot(elements.topStory, topStory ? renderStory(topStory, true) : cloneEmptyState());
 
@@ -247,8 +257,11 @@ function renderReader() {
   const activeItem = state.items.find((item) => item.id === state.activeArticleId);
   if (!activeItem) {
     elements.readerPanel.classList.add("is-hidden");
-    elements.readerFrame.removeAttribute("src");
-    elements.readerFrame.dataset.src = "";
+    elements.readerOpenSource.href = "#";
+    elements.readerPublished.textContent = "Publication time";
+    elements.readerSummary.textContent =
+      "Select a story to view the summary here. Use Open original to read the full article on the publisher site.";
+    elements.readerImageShell.innerHTML = "";
     return;
   }
 
@@ -256,11 +269,9 @@ function renderReader() {
   elements.readerTitle.textContent = activeItem.title;
   elements.readerSource.textContent = `${activeItem.source} · ${activeItem.category}`;
   elements.readerOpenSource.href = activeItem.url;
-
-  if (elements.readerFrame.dataset.src !== activeItem.url) {
-    elements.readerFrame.src = activeItem.url;
-    elements.readerFrame.dataset.src = activeItem.url;
-  }
+  elements.readerPublished.textContent = formatPublishedAt(activeItem.publishedAt);
+  elements.readerSummary.textContent = activeItem.summary || "Open the original article for the full report.";
+  elements.readerImageShell.innerHTML = renderReaderImage(activeItem);
 }
 
 function cloneEmptyState() {
@@ -290,13 +301,59 @@ function openReader(articleId) {
 
   state.activeArticleId = articleId;
   markAsRead(articleId);
-  renderReader();
+  persistUiState();
   elements.readerPanel.scrollIntoView({ behavior: "smooth", block: "start" });
 }
 
 function closeReader() {
   state.activeArticleId = null;
-  renderReader();
+  persistUiState();
+}
+
+function renderReaderImage(item) {
+  if (!item.hasImage) {
+    return "";
+  }
+
+  if (!state.visibleImages.has(item.id)) {
+    return `
+      <button class="button button-secondary" type="button" data-load-image="${escapeAttribute(item.id)}">
+        Load image
+      </button>
+    `;
+  }
+
+  return `<img src="${escapeAttribute(item.image)}" alt="" loading="lazy" decoding="async" />`;
+}
+
+function persistUiState() {
+  try {
+    sessionStorage.setItem(
+      STORAGE_KEYS.ui,
+      JSON.stringify({
+        activeTab: state.activeTab,
+        activeArticleId: state.activeArticleId,
+      }),
+    );
+  } catch {}
+}
+
+function restoreUiState() {
+  try {
+    const raw = sessionStorage.getItem(STORAGE_KEYS.ui);
+    if (!raw) {
+      return;
+    }
+
+    const saved = JSON.parse(raw);
+    if (saved && TAB_ORDER.includes(saved.activeTab)) {
+      state.activeTab = saved.activeTab;
+    }
+
+    if (saved && typeof saved.activeArticleId === "string" && state.items.some((item) => item.id === saved.activeArticleId)) {
+      state.activeArticleId = saved.activeArticleId;
+    }
+  } catch {}
 }
 
 function applyTheme(theme) {
