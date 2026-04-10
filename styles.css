@@ -233,6 +233,24 @@ a {
   font-size: 1rem;
 }
 
+.reader-content {
+  display: grid;
+  gap: 0.9rem;
+  margin-top: 1rem;
+}
+
+.reader-content.is-empty {
+  display: none;
+}
+
+.reader-content p {
+  margin: 0;
+  color: var(--text-body);
+  font-family: var(--font-head);
+  font-size: 1.06rem;
+  line-height: 1.72;
+}
+
 .reader-image-shell {
   margin-top: 1rem;
 }

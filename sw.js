@@ -1,5 +1,5 @@
-const SHELL_CACHE = "news-shell-v1";
-const DATA_CACHE = "news-data-v1";
+const SHELL_CACHE = "news-shell-v2";
+const DATA_CACHE = "news-data-v2";
 const SHELL_ASSETS = [
   "./",
   "./index.html",
@@ -44,7 +44,7 @@ self.addEventListener("fetch", (event) => {
     return;
   }
 
-  if (url.pathname.endsWith("/data/news.json")) {
+  if (url.pathname.startsWith("/newshub/data/") || url.pathname.startsWith("/data/")) {
     event.respondWith(networkFirst(request));
     return;
   }

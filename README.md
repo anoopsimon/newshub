@@ -8,7 +8,7 @@ Live GitHub Pages URL:
 
 ## Project overview
 
-The site reads a single generated file, `data/news.json`, and renders it with plain HTML, CSS, and vanilla JavaScript. RSS ingestion happens in a build/update script so the frontend stays fast, static, and GitHub Pages friendly.
+The site reads a lightweight generated index file, `data/news.json`, and renders it with plain HTML, CSS, and vanilla JavaScript. When article-body extraction is available, the frontend fetches a separate per-article JSON file only when the reader is opened. RSS ingestion happens in a build/update script so the frontend stays fast, static, and GitHub Pages friendly.
 
 ## Features
 
@@ -17,7 +17,7 @@ The site reads a single generated file, `data/news.json`, and renders it with pl
 - Strict Malayalam filtering using normalized `language === "ml"`
 - Images never load by default; users must tap `Load image`
 - Read and saved states stored locally with `localStorage`
-- Inline article reader using an iframe, with external open fallback when a publisher blocks embedding
+- Inline article reader using normalized summaries and on-demand per-article JSON when extracted content is available
 - Red and blue themes using CSS variables
 - PWA support with `manifest.json` and a service worker
 - Zero runtime dependencies for the frontend and feed pipeline
@@ -27,7 +27,8 @@ The site reads a single generated file, `data/news.json`, and renders it with pl
 
 - `config/feeds.json`: source-of-truth feed configuration
 - `scripts/fetch-news.mjs`: fetches RSS, parses entries, cleans content, normalizes output
-- `data/news.json`: static generated news dataset used by the frontend
+- `data/news.json`: lightweight generated news index used by the frontend
+- `data/articles/*.json`: optional extracted article-body files fetched on demand by the reader
 - `index.html`, `styles.css`, `app.js`: static UI
 - `sw.js`, `manifest.json`: PWA assets
 - `.github/workflows/fetch-news.yml`: scheduled/manual GitHub Pages deployment
@@ -93,7 +94,8 @@ No frontend logic, rendering code, filters, or script internals need to change.
    1. `media:content`
    2. `enclosure`
    3. first `<img>` in description HTML
-6. It strips HTML, truncates summaries, deduplicates by URL, sorts newest first, and writes `data/news.json`.
+6. It strips HTML, truncates summaries, deduplicates by URL, sorts newest first, removes items older than 48 hours, and writes `data/news.json`.
+7. When supported by a feed config, it also writes extracted article-body text to `data/articles/<id>.json`.
 
 OneIndia feed note:
 
@@ -172,9 +174,9 @@ Edit the `cron` entry in `.github/workflows/fetch-news.yml`.
 
 - This environment could not reach the seed RSS feeds while generating the project, so `data/news.json` is committed as an empty array by default.
 - The XML parser is intentionally lightweight and regex-based to avoid dependencies. It is designed for common RSS/Atom structures, not every edge case in the wild.
+- Full article-body extraction depends on the publisher exposing parseable page data. Right now the configured extractor is enabled for Onmanorama and unsupported sources fall back to RSS summary.
 - iPhone home-screen support is intentionally minimal and avoids Apple-specific extras beyond standard manifest/meta support.
 - Read and saved state is local to one browser and device.
-- Some publishers block iframe embedding with response headers. In those cases the inline reader may appear blank and `Open source` should be used instead.
 
 ## Future enhancements
 

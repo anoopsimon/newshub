@@ -5,6 +5,11 @@
     "url": "https://www.onmanorama.com/kerala.feeds.onmrss.xml",
     "category": "Kerala",
     "defaultLanguage": "en",
+    "articleContent": {
+      "enabled": true,
+      "strategy": "jsonLdArticleBody",
+      "maxItems": 10
+    },
     "enabled": true
   },
   {

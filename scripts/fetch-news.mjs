@@ -1,9 +1,11 @@
 import crypto from "node:crypto";
-import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { mkdir, readFile, rm, writeFile } from "node:fs/promises";
 
 const feedsPath = new URL("../config/feeds.json", import.meta.url);
 const outputPath = new URL("../data/news.json", import.meta.url);
+const articlesDir = new URL("../data/articles/", import.meta.url);
 const malayalamPattern = /[\u0D00-\u0D7F]/u;
+const retentionHours = 48;
 
 main().catch((error) => {
   console.error(error);
@@ -36,7 +38,8 @@ async function main() {
     console.warn(`Failed to fetch ${feed.name}: ${result.reason.message}`);
   });
 
-  const normalized = sortAndDeduplicate(collected);
+  const normalized = filterRecentItems(sortAndDeduplicate(collected), retentionHours);
+  await enrichArticleContent(normalized, enabledFeeds);
   if (normalized.length === 0) {
     const existing = await readExistingNews();
     if (existing) {
@@ -47,6 +50,7 @@ async function main() {
     console.warn("No items were generated. Writing an empty data/news.json file.");
   }
 
+  await writeArticleFiles(normalized);
   await writeNews(normalized);
   console.log(`Saved ${normalized.length} normalized items from ${enabledFeeds.length - failures} feeds.`);
 }
@@ -86,6 +90,7 @@ function normalizeItem(block, feed) {
 
   return {
     id: buildId(url),
+    _feedId: feed.id,
     title,
     summary,
     url,
@@ -95,7 +100,128 @@ function normalizeItem(block, feed) {
     publishedAt,
     image: image || null,
     hasImage: Boolean(image),
+    content: null,
   };
+}
+
+async function enrichArticleContent(items, feeds) {
+  const feedMap = new Map(feeds.map((feed) => [feed.id, feed]));
+  const queue = [];
+  const perFeedCounts = new Map();
+
+  for (const item of items) {
+    const feed = feedMap.get(item._feedId);
+    const articleContent = feed?.articleContent;
+    if (!articleContent?.enabled) {
+      continue;
+    }
+
+    const seenCount = perFeedCounts.get(feed.id) || 0;
+    const maxItems = articleContent.maxItems || 0;
+    if (maxItems > 0 && seenCount >= maxItems) {
+      continue;
+    }
+
+    perFeedCounts.set(feed.id, seenCount + 1);
+    queue.push({ item, feed });
+  }
+
+  for (const entry of queue) {
+    try {
+      entry.item.content = await fetchArticleContent(entry.item.url, entry.feed.articleContent);
+    } catch (error) {
+      console.warn(`Failed to fetch article body for ${entry.item.url}: ${error.message}`);
+    }
+  }
+
+  for (const item of items) {
+    delete item._feedId;
+  }
+}
+
+async function fetchArticleContent(url, articleContent) {
+  const response = await fetch(url, {
+    headers: {
+      accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "user-agent": "NewsDeskBot/1.0",
+    },
+  });
+
+  if (!response.ok) {
+    throw new Error(`HTTP ${response.status}`);
+  }
+
+  const html = await response.text();
+  const content = extractArticleContent(html, articleContent);
+  return content ? trimContent(content) : null;
+}
+
+function extractArticleContent(html, articleContent) {
+  if (articleContent.strategy === "jsonLdArticleBody") {
+    return extractJsonLdArticleBody(html);
+  }
+
+  return null;
+}
+
+function extractJsonLdArticleBody(html) {
+  const scripts = [...html.matchAll(/<script[^>]*type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)];
+  for (const match of scripts) {
+    const json = parseJson(match[1]);
+    const body = findArticleBody(json);
+    if (body) {
+      return body;
+    }
+  }
+
+  return null;
+}
+
+function findArticleBody(value) {
+  if (!value) {
+    return null;
+  }
+
+  if (Array.isArray(value)) {
+    for (const entry of value) {
+      const body = findArticleBody(entry);
+      if (body) {
+        return body;
+      }
+    }
+    return null;
+  }
+
+  if (typeof value === "object") {
+    const type = Array.isArray(value["@type"]) ? value["@type"] : [value["@type"]];
+    if (type.some((entry) => typeof entry === "string" && /Article$/i.test(entry)) && typeof value.articleBody === "string") {
+      return cleanText(value.articleBody);
+    }
+
+    if (value["@graph"]) {
+      const body = findArticleBody(value["@graph"]);
+      if (body) {
+        return body;
+      }
+    }
+
+    for (const nested of Object.values(value)) {
+      const body = findArticleBody(nested);
+      if (body) {
+        return body;
+      }
+    }
+  }
+
+  return null;
+}
+
+function parseJson(value) {
+  try {
+    return JSON.parse(value.trim());
+  } catch {
+    return null;
+  }
 }
 
 function extractBlocks(xml, preferredTags) {
@@ -197,6 +323,33 @@ function trimSummary(value) {
   return `${trimmed.slice(0, lastSpace > 120 ? lastSpace : maxLength).trim()}...`;
 }
 
+function trimContent(value) {
+  if (!value) {
+    return "";
+  }
+
+  const normalized = value.replace(/\s*\n\s*/g, "\n").replace(/\n{3,}/g, "\n\n").trim();
+  if (normalized.length <= 4000) {
+    return normalized;
+  }
+
+  const clipped = normalized.slice(0, 4000);
+  const lastBreak = Math.max(clipped.lastIndexOf("\n\n"), clipped.lastIndexOf(". "));
+  return `${clipped.slice(0, lastBreak > 2000 ? lastBreak : 4000).trim()}...`;
+}
+
+function filterRecentItems(items, hours) {
+  const cutoff = Date.now() - hours * 60 * 60 * 1000;
+  return items.filter((item) => {
+    if (!item.publishedAt) {
+      return true;
+    }
+
+    const time = new Date(item.publishedAt).getTime();
+    return Number.isFinite(time) && time >= cutoff;
+  });
+}
+
 function normalizeDate(value) {
   if (!value) {
     return null;
@@ -274,4 +427,34 @@ async function readExistingNews() {
 async function writeNews(items) {
   await mkdir(new URL("../data/", import.meta.url), { recursive: true });
   await writeFile(outputPath, `${JSON.stringify(items, null, 2)}\n`, "utf8");
+}
+
+async function writeArticleFiles(items) {
+  await rm(articlesDir, { recursive: true, force: true });
+  await mkdir(articlesDir, { recursive: true });
+
+  for (const item of items) {
+    if (!item.content) {
+      item.hasArticleContent = false;
+      item.articlePath = null;
+      delete item.content;
+      continue;
+    }
+
+    const articleFileName = `${item.id}.json`;
+    const articlePath = new URL(articleFileName, articlesDir);
+    const articlePayload = {
+      id: item.id,
+      url: item.url,
+      title: item.title,
+      source: item.source,
+      publishedAt: item.publishedAt,
+      content: item.content,
+    };
+
+    await writeFile(articlePath, `${JSON.stringify(articlePayload, null, 2)}\n`, "utf8");
+    item.hasArticleContent = true;
+    item.articlePath = `data/articles/${articleFileName}`;
+    delete item.content;
+  }
 }

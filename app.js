@@ -9,6 +9,8 @@ const TAB_ORDER = ["All", "Malayalam", "Kottayam", "Trivandrum", "Kochi", "Focus
 const state = {
   activeTab: "All",
   items: [],
+  articleBodies: new Map(),
+  loadingArticleIds: new Set(),
   readIds: loadStoredSet(STORAGE_KEYS.read),
   savedIds: loadStoredSet(STORAGE_KEYS.saved),
   visibleImages: new Set(),
@@ -33,6 +35,7 @@ const elements = {
   readerClose: document.querySelector("#reader-close"),
   readerPublished: document.querySelector("#reader-published"),
   readerSummary: document.querySelector("#reader-summary"),
+  readerContent: document.querySelector("#reader-content"),
   readerImageShell: document.querySelector("#reader-image-shell"),
 };
 
@@ -261,6 +264,8 @@ function renderReader() {
     elements.readerPublished.textContent = "Publication time";
     elements.readerSummary.textContent =
       "Select a story to view the summary here. Use Open original to read the full article on the publisher site.";
+    elements.readerContent.classList.add("is-empty");
+    elements.readerContent.innerHTML = "";
     elements.readerImageShell.innerHTML = "";
     return;
   }
@@ -271,7 +276,13 @@ function renderReader() {
   elements.readerOpenSource.href = activeItem.url;
   elements.readerPublished.textContent = formatPublishedAt(activeItem.publishedAt);
   elements.readerSummary.textContent = activeItem.summary || "Open the original article for the full report.";
+  elements.readerContent.innerHTML = renderReaderContent(activeItem);
+  elements.readerContent.classList.toggle("is-empty", !shouldShowReaderContent(activeItem));
   elements.readerImageShell.innerHTML = renderReaderImage(activeItem);
+
+  if (activeItem.hasArticleContent && activeItem.articlePath && !state.articleBodies.has(activeItem.id) && !state.loadingArticleIds.has(activeItem.id)) {
+    loadArticleBody(activeItem);
+  }
 }
 
 function cloneEmptyState() {
@@ -324,6 +335,54 @@ function renderReaderImage(item) {
   }
 
   return `<img src="${escapeAttribute(item.image)}" alt="" loading="lazy" decoding="async" />`;
+}
+
+function renderReaderContent(item) {
+  const body = state.articleBodies.get(item.id);
+  if (body) {
+    return body
+      .split(/\n{2,}/)
+      .map((paragraph) => paragraph.trim())
+      .filter(Boolean)
+      .map((paragraph) => `<p>${escapeHtml(paragraph)}</p>`)
+      .join("");
+  }
+
+  if (state.loadingArticleIds.has(item.id)) {
+    return "<p>Loading full article text...</p>";
+  }
+
+  return "";
+}
+
+function shouldShowReaderContent(item) {
+  return state.articleBodies.has(item.id) || state.loadingArticleIds.has(item.id);
+}
+
+async function loadArticleBody(item) {
+  if (!item.articlePath) {
+    return;
+  }
+
+  state.loadingArticleIds.add(item.id);
+  render();
+
+  try {
+    const response = await fetch(item.articlePath, { cache: "no-store" });
+    if (!response.ok) {
+      throw new Error(`Failed to load article body: ${response.status}`);
+    }
+
+    const payload = await response.json();
+    if (payload && typeof payload.content === "string" && payload.content.trim()) {
+      state.articleBodies.set(item.id, payload.content.trim());
+    }
+  } catch (error) {
+    console.error(error);
+  } finally {
+    state.loadingArticleIds.delete(item.id);
+    render();
+  }
 }
 
 function persistUiState() {
