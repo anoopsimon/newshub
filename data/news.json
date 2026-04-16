@@ -1,5 +1,89 @@
 [
   {
+    "id": "9cfa2f8798bee7f8",
+    "title": "കോൺഗ്രസിന് വോട്ട് ബാങ്ക് ഷോക്ക്! വഞ്ചിക്കപ്പെട്ടു, മുസ്ലിം നേതാക്കൾ കടുത്ത നിലപാടിലേക്ക്",
+    "summary": "ഒരു കുടുംബത്തിന് വേണ്ടി സമുദായത്തെ തഴയുന്നു; കോൺഗ്രസിനെതിരെ പരസ്യമായി വിയോജിച്ച് മുസ്ലിം നേതാക്കൾ. പ്രതിസന്ധിയിലായി കോൺഗ്രസ് നേതാക്കൾ.Senior Muslim leaders in Karnataka Congress express deep resentment over community...",
+    "url": "https://malayalam.oneindia.com/news/india/internal-rift-at-karnataka-congress-muslim-leaders-warn-of-backlash-over-neglect-read-more-577171.html",
+    "source": "OneIndia",
+    "category": "Malayalam",
+    "language": "ml",
+    "publishedAt": "2026-04-16T18:10:38.000Z",
+    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/04/karnataka-congress-1776362972.jpg",
+    "hasImage": true,
+    "hasArticleContent": false,
+    "articlePath": null
+  },
+  {
+    "id": "ae464772ca4b078a",
+    "title": "CBSE withholds Class X results of 38 Kasaragod students over subject code mix-up despite correction, court order",
+    "summary": "The school detected the wrong subject code only on January 12, 2026, weeks before the board exam.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/04/16/cbse-exams-students-results-kasaragod.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-04-16T17:31:38.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/ae464772ca4b078a.json"
+  },
+  {
+    "id": "8aa7aef9d8fb4904",
+    "title": "Six arrested for attacking youth with iron rod in Idukki bar brawl",
+    "summary": "A 30-year-old man named Vineesh was severely injured by an iron rod during a drunken brawl at a bar near Thodupuzha.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/04/16/idukki-bar-attack-thodupuzha.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-04-16T17:10:06.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/8aa7aef9d8fb4904.json"
+  },
+  {
+    "id": "23b5d7da82b5e0f6",
+    "title": "Fire at Munnar waste plant destroys equipment worth lakhs; probe on amid sabotage claims",
+    "summary": "Opposition leaders V P Shivakumar and Santhosh Pandian alleged that the fire was deliberately set to cover up irregularities at the plant.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/04/16/munnar-waste-plant-fire.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-04-16T17:01:16.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/23b5d7da82b5e0f6.json"
+  },
+  {
+    "id": "e386b085bf0b56e8",
+    "title": "ഇസ്രായേൽ-ലെബനൻ യുദ്ധത്തിന് താൽക്കാലിക വിരാമം; വെടിനിർത്തൽ പ്രഖ്യാപിച്ച് ട്രംപ്",
+    "summary": "ഇസ്രായേലും ലെബനനും തമ്മിൽ 10 ദിവസത്തെ താൽക്കാലിക വെടിനിർത്തലിന് ധാരണയായി. അമേരിക്കൻ പ്രസിഡന്റ് ഡൊണാൾഡ് ട്രംപ് പ്രഖ്യാപിച്ച ഈ കരാർ ഇന്ന് നിലവിൽ വരും.President Trump announces a historic 10-day ceasefire between Israel...",
+    "url": "https://malayalam.oneindia.com/news/international/israel-lebanon-agree-to-10-day-ceasefire-trump-announces-diplomatic-breakthrough-read-more-577169.html",
+    "source": "OneIndia",
+    "category": "Malayalam",
+    "language": "ml",
+    "publishedAt": "2026-04-16T16:57:02.000Z",
+    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/04/israel-and-lebanon-1776358366.jpg",
+    "hasImage": true,
+    "hasArticleContent": false,
+    "articlePath": null
+  },
+  {
+    "id": "0f4d20bacc307b77",
+    "title": "Accused on the run in visa fraud, multiple drug cases arrested in Idukki",
+    "summary": "Kanjikuzhy police have apprehended Riju Ibrahimkutty, a 45-year-old man wanted in connection with numerous criminal cases across Kerala.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/04/16/idukki-police-arrest-fugitive.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-04-16T16:54:05.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/0f4d20bacc307b77.json"
+  },
+  {
     "id": "9377b9d2b00ce82a",
     "title": "SC grants anticipatory bail to Kochi IT entrepreneur in sexual assault case",
     "summary": "The SC order has overturned the Kerala High Court's decision and granted the absolute interim protection previously granted.",
@@ -126,20 +210,6 @@
     "articlePath": "data/articles/f7afed2ab9cac5f3.json"
   },
   {
-    "id": "929fde9b06decafa",
-    "title": "SSLC, Plus Two exams in Gulf cancelled; evaluation based on model/term paper scores",
-    "summary": "Kerala's SSLC and Class 12 examinations in the Gulf region have been cancelled due to the West Asian conflict.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/04/16/sslc-class-12-exams-cancelled-gulf.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-04-16T13:26:37.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/929fde9b06decafa.json"
-  },
-  {
     "id": "5402f61fa07d5181",
     "title": "ബംഗാളില്‍ വോട്ടെടുപ്പിന് ഒരു ദിവസം മുമ്പ് വരെ എസ്‌ഐആര്‍; അവസരം ഒരുക്കി സുപ്രീംകോടതി",
     "summary": "Bengal SIR: Those Include In List A Day Before Voting Can Cast Vote, Says Supreme Court ബംഗാളില്‍ വോട്ടെടുപ്പിന് ഒരു ദിവസം മുമ്പ് വരെ എസ്‌ഐആര്‍; അവസരം ഒരുക്കി സുപ്രീംകോടതി",
@@ -152,20 +222,6 @@
     "hasImage": true,
     "hasArticleContent": false,
     "articlePath": null
-  },
-  {
-    "id": "357319250485fb72",
-    "title": "KK Rema’s ex-aide injured during Vishu, MLA slams CPM over ‘fake bomb’ propaganda",
-    "summary": "She alleged that the campaign was aimed at maligning her and the RMP.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/04/16/kk-rema-allegations-bomb-crackers-cpm.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-04-16T13:09:37.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/357319250485fb72.json"
   },
   {
     "id": "0967c5b7c39f51df",
@@ -196,20 +252,6 @@
     "articlePath": null
   },
   {
-    "id": "06cc9ea6609275c9",
-    "title": "Case against driver for blocking fire engine rushing to hospital blaze in Alappuzha",
-    "summary": "Pattakanad police have registered a case against Sujith, a resident of Kodamthuruth, for allegedly obstructing a fire tender on its way to an emergency at Thuravoor Taluk Hospital.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/04/16/alappuzha-man-fire-tender-obstruction-case.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-04-16T11:57:34.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/06cc9ea6609275c9.json"
-  },
-  {
     "id": "dc107081f1d04307",
     "title": "സ്വര്‍ണവില ഇന്നും വര്‍ധിച്ചു; സ്വര്‍ണം തിളങ്ങാന്‍ കാരണം ഇതാണ്, ഇന്നത്തെ പവന്‍ വില",
     "summary": "Kerala Gold Rate Continuously Increasing; Rs 160 Rises Today, Latest Pavan, Gram Price Details Inside സ്വര്‍ണവില ഇന്നും വര്‍ധിച്ചു; സ്വര്‍ണം തിളങ്ങാന്‍ കാരണം ഇതാണ്, ഇന്നത്തെ പവന്‍ വില",
@@ -222,20 +264,6 @@
     "hasImage": true,
     "hasArticleContent": false,
     "articlePath": null
-  },
-  {
-    "id": "190944043fffe04d",
-    "title": "Delay in opening Alappuzha's Thanneermukkom bund triggers livelihood crisis",
-    "summary": "Delayed Thanneermukkom bund operations are depleting fish stocks and causing a severe livelihood crisis for Vembanad lake’s fishing communities.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/04/16/thanneermukkom-bund-delay-livelihood-crisis.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-04-16T11:29:37.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/190944043fffe04d.json"
   },
   {
     "id": "56bf6d6bd9f7a7a8",
@@ -527,34 +555,6 @@
     "language": "ml",
     "publishedAt": "2026-04-15T16:15:55.000Z",
     "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/04/goldrate-1776269615.jpg",
-    "hasImage": true,
-    "hasArticleContent": false,
-    "articlePath": null
-  },
-  {
-    "id": "5cfd3f75d8b2b5a6",
-    "title": "ഫോണിലെ ഒരു 'ക്ലിക്ക്' ജീവിതം തകർക്കും! ലോൺ ആപ്പുകളുടെ ചതിക്കുഴികൾ അറിയാതെ പോകരുത്",
-    "summary": "മിനിറ്റുകൾക്കുള്ളിൽ ലോൺ വാഗ്ദാനം ചെയ്യുന്ന ആപ്പുകൾക്ക് പിന്നിലെ ക്രൂരമായ ചതിക്കുഴികളെക്കുറിച്ച് അറിയാം. അമിത പലിശയും ഡാറ്റാ മോഷണവും നിങ്ങളുടെ ജീവിതം തകർത്തേക്കാം. Beware of the dark side of instant loan apps. Learn...",
-    "url": "https://malayalam.oneindia.com/news/india/hidden-dangers-of-instant-loan-apps-dont-fall-into-this-debt-trap-learn-how-apps-trap-you-in-debt-577037.html",
-    "source": "OneIndia",
-    "category": "Malayalam",
-    "language": "ml",
-    "publishedAt": "2026-04-15T16:05:57.000Z",
-    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/04/loan-apps-1776269086.jpg",
-    "hasImage": true,
-    "hasArticleContent": false,
-    "articlePath": null
-  },
-  {
-    "id": "b7832dc27510f4c2",
-    "title": "അവധിക്കാലത്ത് സ്‌പെഷ്യല്‍ ക്ലാസ് വേണ്ട; നിയമവിരുദ്ധം, അവകാശ ലംഘനം എന്ന് വി ശിവന്‍കുട്ടി",
-    "summary": "Education Minister V Sivankutty Warned Special Classes In School At Summer Vacation For Students അവധിക്കാലത്ത് സ്‌പെഷ്യല്‍ ക്ലാസ് വേണ്ട; നിയമവിരുദ്ധം, അവകാശ ലംഘനം എന്ന് വി ശിവന്‍കുട്ടി",
-    "url": "https://malayalam.oneindia.com/news/kerala/education-minister-v-sivankutty-warned-special-classes-in-school-at-summer-vacation-for-students-577031.html",
-    "source": "OneIndia",
-    "category": "Malayalam",
-    "language": "ml",
-    "publishedAt": "2026-04-15T15:30:44.000Z",
-    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/04/vsivankuttyonsummerclass--1776267028.jpg",
     "hasImage": true,
     "hasArticleContent": false,
     "articlePath": null
