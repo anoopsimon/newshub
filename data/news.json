@@ -1,5 +1,47 @@
 [
   {
+    "id": "808324622c1b4e81",
+    "title": "22-year-old woman killed as auto hits electric pole en route to hospital in Alappuzha",
+    "summary": "The accident occurred when the autorickshaw driver swerved to avoid a motorcycle and crashed into an electric pole",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/04/19/alappuzha-accident-young-woman-killed.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-04-19T09:33:36.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/808324622c1b4e81.json"
+  },
+  {
+    "id": "5810f92712ae7144",
+    "title": "'No load shedding despite record demand', says electricity minister K Krishnankutty",
+    "summary": "Kerala will not impose load shedding despite record power consumption due to intensifying summer heat and increased use of induction cookers.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/04/19/kerala-electricity-no-load-shedding-despite.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-04-19T08:58:09.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/5810f92712ae7144.json"
+  },
+  {
+    "id": "b319cf6d834fbb75",
+    "title": "Mundakkai–Chooralmala houses row: Chandy Oommen mocks Rajan, calls him Thrissur's new 'construction worker'",
+    "summary": "Alleging collusion, he claimed there was a clear nexus between the minister and Uralungal Labour Contract Co-operative Society",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/04/19/wayanad-landslide-house-cracks-chandy-oommen-mocks-rajan.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-04-19T08:44:05.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/b319cf6d834fbb75.json"
+  },
+  {
     "id": "0b769675c8ef1907",
     "title": "Former Congress MLA in Kerala approaches Election Commission against Narendra Modi for ‘poll code violation’",
     "summary": "Congress leader Anil Akkara has filed a complaint with the Election Commission alleging Prime Minister Narendra Modi violated the Model Code of Conduct",
@@ -196,34 +238,6 @@
     "articlePath": "data/articles/0ae9ad00e7f68678.json"
   },
   {
-    "id": "d7f92478ebfc8f04",
-    "title": "MG University Syndicate seeks revision of Governor’s Board of Studies panel, alleges irregularities",
-    "summary": "The reconstitution of Mahatma Gandhi University's Boards of Studies has led to a conflict between the Syndicate and the Governor",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/04/19/mgu-boards-of-studies-dispute-syndicate-governor.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-04-19T04:04:09.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/d7f92478ebfc8f04.json"
-  },
-  {
-    "id": "72f86a1f905f9b6d",
-    "title": "Newborn found dead after home delivery in Kottayam; Police launch probe",
-    "summary": "A newborn died in Kottayam after a 36-year-old woman delivered at home in Kottayam.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/04/19/kottayam-newborn-death-home-birth-police-probe.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-04-19T03:30:12.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/72f86a1f905f9b6d.json"
-  },
-  {
     "id": "5029b82f444a5428",
     "title": "ചുട്ടുപൊള്ളി കേരളം... 12 ജില്ലകളിലും അതിജാഗ്രതാ നിര്‍ദേശം... വൈകാതെ വേനല്‍മഴയെത്തും!",
     "summary": "Kerala Weather | Temperatures are likely to rise to 40 degrees Celsius in Palakkad district, വടക്കന്‍ കര്‍ണാടകത്തിനും മഹാരാഷ്ട്രയ്ക്കും മുകളില്‍ നിലനിന്നിരുന്ന എതിര്‍ ചക്രവാതമാണ് താപനില ഇത്രത്തോളം ഉയരാന്‍ കാരണമായത്",
@@ -278,20 +292,6 @@
     "hasImage": true,
     "hasArticleContent": false,
     "articlePath": null
-  },
-  {
-    "id": "e8748004ab934ad3",
-    "title": "Karnataka’s Kambala race concludes after months of high-speed action",
-    "summary": "The annual Karnataka Kambala buffalo race season, which begins in December and peaks in January, has concluded in March.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/04/18/kambala-race-kasaragod-karnataka.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-04-19T01:59:50.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/e8748004ab934ad3.json"
   },
   {
     "id": "45322c228c46c465",
