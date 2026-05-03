@@ -1,5 +1,47 @@
 [
   {
+    "id": "ab6122077a3af949",
+    "title": "17-year-old student drowns at Pathankayam waterfalls in Kozhikode",
+    "summary": "A 17-year-old boy, Shabeel, drowned at Pathankayam waterfalls. He was with two friends who raised the alarm when he went missing. His body was recovered before rescue services arrived.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/05/03/17-year-old-student-drowns-at-pathankayam-waterfalls-in-kozhikode.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-05-03T09:57:08.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/ab6122077a3af949.json"
+  },
+  {
+    "id": "3766b6a56e3cf8d3",
+    "title": "എസി ബോംബാകുമോ? കത്തുന്ന വേനലിൽ എസി പൊട്ടിത്തെറിക്കാതിരിക്കാൻ ഈ കാര്യങ്ങൾ ശ്രദ്ധിക്കൂ",
+    "summary": "കടുത്ത ചൂടിൽ എസികൾ പൊട്ടിത്തെറിച്ചുള്ള അപകടങ്ങൾ വർധിക്കുന്നു. എസി തീപിടുത്തത്തിന്റെ ലക്ഷണങ്ങൾ എന്തൊക്കെയാണ്? അപകടം ഒഴിവാക്കാൻ ശ്രദ്ധിക്കേണ്ട പ്രധാന കാര്യങ്ങൾ വായനക്കാർക്കായി പങ്കുവെക്കുന്നു. Rising temperatures are...",
+    "url": "https://malayalam.oneindia.com/news/india/how-to-prevent-ac-fire-and-explosions-essential-summer-safety-guide-579405.html",
+    "source": "OneIndia",
+    "category": "Malayalam",
+    "language": "ml",
+    "publishedAt": "2026-05-03T09:56:36.000Z",
+    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/05/ac-fire-1777802086.jpg",
+    "hasImage": true,
+    "hasArticleContent": false,
+    "articlePath": null
+  },
+  {
+    "id": "6acec7adf9eec617",
+    "title": "റിസ്കില്ലാതെ 40 ലക്ഷം രൂപ പോക്കറ്റിലാക്കാം! പിപിഎഫ് നൽകുന്ന 'ലോട്ടറി' ഇതാ; അറിയേണ്ടതെല്ലാം",
+    "summary": "പബ്ലിക് പ്രൊവിഡന്റ് ഫണ്ടിൽ പ്രതിവർഷം 1.5 ലക്ഷം രൂപ വീതം നിക്ഷേപിച്ചാൽ 15 വർഷത്തിന് ശേഷം എത്ര രൂപ ലഭിക്കുമെന്ന് അറിയാമോ? സമ്പാദ്യവും പലിശയും നികുതി ആനുകൂല്യങ്ങളും ഉൾപ്പെടെയുള്ള വിവരങ്ങൾ വായിക്കാം. Thinking of PPF...",
+    "url": "https://malayalam.oneindia.com/news/india/ppf-investment-how-rs-1-5-lakh-a-year-grows-in-15-years-maturity-interest-explained-read-more-579399.html",
+    "source": "OneIndia",
+    "category": "Malayalam",
+    "language": "ml",
+    "publishedAt": "2026-05-03T08:32:37.000Z",
+    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/05/ppf-investment-1777796948.jpg",
+    "hasImage": true,
+    "hasArticleContent": false,
+    "articlePath": null
+  },
+  {
     "id": "4f04644d6db2d298",
     "title": "'എൽഡിഎഫ് ജയിക്കണമെന്നാണ് ആഗ്രഹം, ബിജെപി അക്കൗണ്ട് തുറക്കും, യുഡിഎഫ് ജയിച്ചാൽ അടിപിടി'; വെള്ളാപ്പള്ളി",
     "summary": "'എൽഡിഎഫ് ജയിക്കണമെന്നാണ് ആഗ്രഹം, ബിജെപി അക്കൗണ്ട് തുറക്കും, യുഡിഎഫ് ജയിച്ചാൽ അടിപിടി'; വെള്ളാപ്പള്ളി . Vellappally Natesan Says He Wants Left Democratic Front To Win And Assures That Bharatiya Janata Party Will Open Its...",
@@ -12,6 +54,20 @@
     "hasImage": true,
     "hasArticleContent": false,
     "articlePath": null
+  },
+  {
+    "id": "8613f096ed8ebd93",
+    "title": "Kannur family’s Ooty trip ends in tragedy; three, including boy, killed near Gundlupet",
+    "summary": "Three family members from Kannur, including a three-year-old, died in a collision with a truck near Gundlupet en route to Ooty, with one survivor in intensive care.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/05/03/kannur-family-s-ooty-trip-ends-in-tragedy-three-including-boy-killed-near-gundlupet.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-05-03T08:02:48.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/8613f096ed8ebd93.json"
   },
   {
     "id": "703ec7303e9838f2",
@@ -420,20 +476,6 @@
     "articlePath": null
   },
   {
-    "id": "d6c51ac5ef4fea17",
-    "title": "Firework accidents: A critical analysis with reference to the recent Thrissur tragedy",
-    "summary": "Indian festivals feature fireworks despite recurring safety failures, leading to fatal accidents due to illegal storage, poor compliance, and weak enforcement, with calls for stricter regulations and safer alternatives.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/05/02/firework-accidents-a-critical-analysis-with-reference-to-the-recent-thrissur-tragedy.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-05-02T14:33:04.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/d6c51ac5ef4fea17.json"
-  },
-  {
     "id": "ccfd751e860e8fc1",
     "title": "സസ്പെൻഷൻ ഇതാദ്യത്തേതല്ല, ബി അശോകിനെ ഉമ്മൻചാണ്ടി സസ്പെൻഡ് ചെയ്തത് ചർച്ചയാക്കി സൈബർ ലോകം",
     "summary": "B Ashok IAS' suspension is not the first; Why Oommen Chandy has suspended him has become a topic of discussion in the cyber world.| സസ്പെൻഷൻ ഇതാദ്യത്തേതല്ല, ബി അശോകിനെ ഉമ്മൻചാണ്ടി സസ്പെൻഡ് ചെയ്തത് ചർച്ചയാക്കി സൈബർ ലോകം",
@@ -476,20 +518,6 @@
     "articlePath": null
   },
   {
-    "id": "334f8d57d8e16a31",
-    "title": "11-year-old tiger dies of pneumonia at TVM zoo",
-    "summary": "An 11-year-old tigress died at Thiruvananthapuram Zoo from pneumonia, having been housed there since 2025 for rehabilitation after straying.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/05/02/11-year-old-tiger-dies-of-pneumonia-at-tvm-zoo.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-05-02T13:08:03.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/334f8d57d8e16a31.json"
-  },
-  {
     "id": "5a2bec8963c0962d",
     "title": "എല്‍ഡിഎഫിന് തുടര്‍ഭരണം, 78 സീറ്റ് വരെ ലഭിക്കുമെന്ന് ഇലക്ഷന്‍ ഇന്റലിജന്‍സ് ബ്യൂറോ ഡയറക്ടര്‍",
     "summary": "Kerala Election 2026 | There is no anti-government sentiment in the state, സംസ്ഥാനത്ത് ഇത്തവണ വലിയ പോളിംഗാണ് രേഖപ്പെടുത്തിയത്",
@@ -527,34 +555,6 @@
     "language": "ml",
     "publishedAt": "2026-05-02T11:56:28.000Z",
     "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/05/fuel-1777722894.jpg",
-    "hasImage": true,
-    "hasArticleContent": false,
-    "articlePath": null
-  },
-  {
-    "id": "6e4203204cc9cbe7",
-    "title": "വിജയ് ജയിക്കുമെന്ന് തമിഴ്‌നാട്ടിലെ റിട്ട. ഐപിഎസ് ഉദ്യോഗസ്ഥരുടെ സര്‍വെ; ഡിഎംകെക്ക് അതൃപ്തി",
-    "summary": "Vijay Win: Retired IPS Officers New Survey Says Vijay Will Win In Tamil Nadu Assembly Election വിജയ് ജയിക്കുമെന്ന് തമിഴ്‌നാട്ടിലെ റിട്ട. ഐപിഎസ് ഉദ്യോഗസ്ഥരുടെ സര്‍വെ; ഡിഎംകെക്ക് അതൃപ്തി",
-    "url": "https://malayalam.oneindia.com/news/india/vijay-win-retired-ips-officers-new-survey-says-vijay-will-win-in-tamil-nadu-assembly-election-011-579309.html",
-    "source": "OneIndia",
-    "category": "Malayalam",
-    "language": "ml",
-    "publishedAt": "2026-05-02T11:33:58.000Z",
-    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/05/vijaywinnewsurveyresult--1777721554.jpg",
-    "hasImage": true,
-    "hasArticleContent": false,
-    "articlePath": null
-  },
-  {
-    "id": "d336e3ef968b7a80",
-    "title": "മൂന്ന് മണിക്കൂറിനുള്ളില്‍ പെരുമഴ പെയ്യും; മലപ്പുറമടക്കം മൂന്നിടത്ത് ഓറഞ്ച് അലര്‍ട്ട്",
-    "summary": "Kerala Weather Forecast | An orange alert has been declared in Ernakulam, Idukki and Malappuram districts, ഇന്ന് മുതല്‍ വേനല്‍ മഴ കൂടുതല്‍ ശക്തമാകുമെന്നാണ് കേന്ദ്ര കാലാവസ്ഥ വകുപ്പിന്റെ മുന്നറിയിപ്പ്",
-    "url": "https://malayalam.oneindia.com/news/kerala/kerala-weather-forecast-heavy-rain-expects-in-three-district-within-three-hour-orange-alert-issued-579307.html",
-    "source": "OneIndia",
-    "category": "Malayalam",
-    "language": "ml",
-    "publishedAt": "2026-05-02T11:10:39.000Z",
-    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/05/rainss-1777720215.jpg",
     "hasImage": true,
     "hasArticleContent": false,
     "articlePath": null
