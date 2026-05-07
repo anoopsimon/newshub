@@ -1,5 +1,89 @@
 [
   {
+    "id": "a82b8e2f481cbdb5",
+    "title": "‘Let the man who led the battle lead Kerala’: Congress workers rally for Satheesan in Peravoor",
+    "summary": "Congress workers rallied behind V D Satheesan for Kerala's chief minister, protesting to show public support, while the party's high command consulted MLAs.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/05/07/congress-workers-rally-satheesan-chief-minister-live.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-05-07T16:24:48.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/a82b8e2f481cbdb5.json"
+  },
+  {
+    "id": "6bf62e6b57de3d31",
+    "title": "13-year-old drowns while bathing in stream in Wayanad",
+    "summary": "It is suspected that the boy's legs became trapped in slush, possibly due to summer rain the previous day.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/05/07/13-year-old-drowns-while-bathing-in-stream-in-wayanad.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-05-07T16:21:47.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/6bf62e6b57de3d31.json"
+  },
+  {
+    "id": "aeddc2cb0d1cd4cf",
+    "title": "ബംഗാള്‍ മന്ത്രിസഭ പിരിച്ചുവിട്ട് ഗവര്‍ണര്‍; മമത ഇനി മുഖ്യമന്ത്രിയല്ല, ചട്ടം പറയുന്നതിങ്ങനെ",
+    "summary": "West Bengal Crisis | The Trinamool Congress lost power in the state in the elections, 200 ലേറെ സീറ്റ് നേടി ബിജെപിയാണ് സംസ്ഥാനത്ത് അധികാരത്തിലെത്തിയത്",
+    "url": "https://malayalam.oneindia.com/news/india/west-bengal-crisis-governor-rn-ravi-dissolved-benngal-assembly-mamata-banerjee-no-longer-chief-min-580077.html",
+    "source": "OneIndia",
+    "category": "Malayalam",
+    "language": "ml",
+    "publishedAt": "2026-05-07T15:58:05.000Z",
+    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/05/mamas-1778169469.jpg",
+    "hasImage": true,
+    "hasArticleContent": false,
+    "articlePath": null
+  },
+  {
+    "id": "3d7427f04930336a",
+    "title": "88 illegal structures demolished in Pooppara; rehabilitation only for 12 families: Idukki Collector",
+    "summary": "Dozens of illegal structures on government land and riverbanks in Pooppara were demolished due to disaster risks. Authorities, following court orders, removed 88 buildings obstructing the river's natural flow.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/05/07/pooppara-illegal-structures-demolished-collector.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-05-07T15:34:41.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/3d7427f04930336a.json"
+  },
+  {
+    "id": "ce98317be54db048",
+    "title": "‘Not thankless’: Wayanad landslide survivors slam Left handles for cyber attacks over T Siddique majority",
+    "summary": "The significant lead secured by Siddique in traditionally Left strongholds suggests that even Left supporters voted for him",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/05/07/wayanad-landslide-survivors-slam-left-handles-for-cyber-attacks-siddique-kalpetta-majority.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-05-07T15:26:27.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/ce98317be54db048.json"
+  },
+  {
+    "id": "e74576551da2dc48",
+    "title": "കോണ്‍ഗ്രസ് മുഖ്യമന്ത്രി ഞായറാഴ്ച? എഐസിസി നിരീക്ഷകര്‍ മടങ്ങി, സതീശന് വേണ്ടി ഘടകകക്ഷികള്‍",
+    "summary": "Congress CM Race | Mukul Wasnik and Ajay Maken came to the state as AICC observers, മൂന്ന് കൂട്ടരുടേയും പക്ഷങ്ങള്‍ തങ്ങളുടെ തീരുമാനം നിരീക്ഷകരെ അറിയിച്ചിട്ടുണ്ട്",
+    "url": "https://malayalam.oneindia.com/news/india/congress-cm-race-aicc-may-announce-kerala-cm-on-sunday-all-eyes-on-mallikarjun-kharge-details-ins-580071.html",
+    "source": "OneIndia",
+    "category": "Malayalam",
+    "language": "ml",
+    "publishedAt": "2026-05-07T14:49:52.000Z",
+    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/05/rscjm-1778165305.jpg",
+    "hasImage": true,
+    "hasArticleContent": false,
+    "articlePath": null
+  },
+  {
     "id": "3c4cbca43bd2ab12",
     "title": "Two Kottayam students killed in bike–lorry collision in Kozhikode",
     "summary": "Both victims were students who had recently arrived in Kozhikode to pursue a digital marketing course.",
@@ -126,20 +210,6 @@
     "articlePath": null
   },
   {
-    "id": "0b867a0fdad19cbf",
-    "title": "Kerala lottery Karunya Plus KN-622 result today 07/05/2026: ₹1 cr first prize for PN 756438 | Check complete list",
-    "summary": "The first prize is ₹1 crore, subject to a 30% tax deduction. The second prize is ₹30 lakh, followed by a third prize of ₹5 lakh.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/05/07/karunya-plus-kn-622-lottery-results-kerala-1-crore-first-prize-list-winners-live.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-05-07T11:43:02.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/0b867a0fdad19cbf.json"
-  },
-  {
     "id": "bb8570fda70e9fe1",
     "title": "ബെംഗളൂരു നഗരത്തിന് ആശ്വാസമാവുന്ന മറ്റൊരു വാർത്ത കൂടി; ബാബൂസപാളയ അടിപ്പാത ഉടൻ തുറക്കും!",
     "summary": "Another Piece Of Good News For Bengaluru City; Babusapalaya Underpass To Open Soon . ബെംഗളൂരു നഗരത്തിന് ആശ്വാസമാവുന്ന മറ്റൊരു വാർത്ത കൂടി; ബാബൂസപാളയ അടിപ്പാത ഉടൻ തുറക്കും!",
@@ -208,20 +278,6 @@
     "hasImage": true,
     "hasArticleContent": false,
     "articlePath": null
-  },
-  {
-    "id": "aff5eb20ea6fbecb",
-    "title": "Muslim League & Kerala’s education portfolio: Legacy, controversy and fresh political debate on UDF cabinet berths",
-    "summary": "The Indian Union Muslim League has historically held Kerala's Education portfolio, sparking recurring political debate. Critics allege mismanagement, while the League defends its role in expanding educational access.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/05/07/muslim-league-education-portfolio-legacy-controversy-udf-cabinet-berths.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-05-07T10:37:36.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/aff5eb20ea6fbecb.json"
   },
   {
     "id": "ec8d508b84dbf6a9",
@@ -294,20 +350,6 @@
     "articlePath": null
   },
   {
-    "id": "0affe4323e63413d",
-    "title": "The wave, the verdict and what lies ahead",
-    "summary": "Opposition leaders attributed their victory to public dissatisfaction and their credible alternative vision, pledging to implement guarantees and investigate government actions.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/05/07/the-wave-the-verdict-and-what-lies-ahead.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-05-07T08:45:54.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/0affe4323e63413d.json"
-  },
-  {
     "id": "355f552edf1b9d0f",
     "title": "മുഖ്യമന്ത്രി സ്ഥാനം അല്ലാതെ മറ്റൊന്നും വേണ്ട; കടുത്ത നിലപാടുമായി വിഡി സതീശൻ, രംഗം കൊഴുക്കുന്നു",
     "summary": "VD Satheesan Takes A Tough Stance Affirms He Wants Nothing But The Chief Minister Post . മുഖ്യമന്ത്രി സ്ഥാനം അല്ലാതെ മറ്റൊന്നും വേണ്ട; കടുത്ത നിലപാടുമായി വിഡി സതീശൻ, രംഗം കൊഴുക്കുന്നു",
@@ -348,20 +390,6 @@
     "hasImage": true,
     "hasArticleContent": false,
     "articlePath": null
-  },
-  {
-    "id": "3eec877c12516cfa",
-    "title": "Assembly Elections 2026: Election Commission lifts Model Code of Conduct",
-    "summary": "Following election results, the Election Commission has lifted the Model Code of Conduct across states with assembly and bye-elections, though it remains in place for fresh polls in West Bengal's Falta constituency.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/05/07/election-code-conduct-lifted.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-05-07T07:35:34.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/3eec877c12516cfa.json"
   },
   {
     "id": "fca827b50bf9e519",
@@ -527,34 +555,6 @@
     "language": "ml",
     "publishedAt": "2026-05-07T04:03:32.000Z",
     "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/05/vijay-trisha-1777900057.jpg",
-    "hasImage": true,
-    "hasArticleContent": false,
-    "articlePath": null
-  },
-  {
-    "id": "f970d6b5e349ca93",
-    "title": "'കണക്കുകളൊന്നും ശരിയാവുന്നില്ലല്ലോ മാരാരെ'; നന്ദി പോസ്റ്റിൽ അഖിൽ മാരാരെ എയറിലാക്കി സോഷ്യൽ മീഡിയ, കമൻ്റുകൾ",
-    "summary": "Thrikkakara Election Results 2026: Akhil Marar Gets Trolled for His Post on Poll Outcome; Here's What Social Media Says'ബിഗ് ബോസ് അല്ല തിരഞ്ഞെടുപ്പ്';നന്ദി പോസ്റ്റിൽ അഖിൽ മാരാരെ എയറിലാക്കി സോഷ്യൽ മീഡിയ, കമൻ്റുകൾ",
-    "url": "https://malayalam.oneindia.com/news/kerala/thrikkakara-election-results-2026-akhil-marar-gets-trolled-for-his-post-on-poll-outcome-579551.html",
-    "source": "OneIndia",
-    "category": "Malayalam",
-    "language": "ml",
-    "publishedAt": "2026-05-07T04:03:17.000Z",
-    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/05/akhil-2-1777897337.jpg",
-    "hasImage": true,
-    "hasArticleContent": false,
-    "articlePath": null
-  },
-  {
-    "id": "089c7979f6c72c3f",
-    "title": "Pathanapuram Election Result Live: ഗണേഷ് കുമാറിന് അടിതെറ്റി; ജ്യോതികുമാർ ചാമക്കാലയുടെ വിജയം 8310 വോട്ടുകൾക്ക്",
-    "summary": "പത്തനാപുരത്ത് കെബി ഗണേഷ് കുമാറിന് അടിതെറ്റുമോ? ജ്യോതികുമാർ ചാമക്കാലയുടെ മുന്നേറ്റം . Pathanapuram Election Result Will K B Ganesh Kumar Lose Jyothikumar Chamakala Advance",
-    "url": "https://malayalam.oneindia.com/news/kerala/pathanapuram-election-result-will-k-b-ganesh-kumar-lose-jyothikumar-chamakala-advance-579467.html",
-    "source": "OneIndia",
-    "category": "Malayalam",
-    "language": "ml",
-    "publishedAt": "2026-05-07T04:02:52.000Z",
-    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/05/pathanapuramelectionresult2026s-1777866743.jpg",
     "hasImage": true,
     "hasArticleContent": false,
     "articlePath": null
