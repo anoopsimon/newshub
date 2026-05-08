@@ -1,5 +1,19 @@
 [
   {
+    "id": "136475d64260693d",
+    "title": "തമിഴ്‌നാട്ടിൽ വീണ്ടും വഴിത്തിരിവ്; വിജയ്‌യുടെ സത്യപ്രതിജ്ഞ ശനിയാഴ്‌ചയില്ല? വിസികെ കത്തിൽ ഇടഞ്ഞ് ഗവർണർ",
+    "summary": "Another Turning Point In Tamil Nadu, Vijay Swearing In Will Not Be On Saturday Here Is The Reason. തമിഴ്‌നാട്ടിൽ വീണ്ടും വഴിത്തിരിവ്; വിജയ്‌യുടെ സത്യപ്രതിജ്ഞ ശനിയാഴ്‌ചയില്ല? വിസികെ കത്തിൽ ഇടഞ്ഞ് ഗവർണർ",
+    "url": "https://malayalam.oneindia.com/news/india/another-turning-point-in-tamil-nadu-vijays-swearing-in-will-not-be-on-saturday-heres-the-reason-580265.html",
+    "source": "OneIndia",
+    "category": "Malayalam",
+    "language": "ml",
+    "publishedAt": "2026-05-08T18:23:18.000Z",
+    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/05/tvkvijay3-1778264454.jpg",
+    "hasImage": true,
+    "hasArticleContent": false,
+    "articlePath": null
+  },
+  {
     "id": "2b72805c81f648c8",
     "title": "Wayanad man gets life imprisonment for sexually assaulting minor daughter",
     "summary": "A man received a life sentence for sexually assaulting his minor daughter, with additional jail time and a fine, following his arrest and subsequent trial.",
@@ -7,11 +21,53 @@
     "source": "Onmanorama",
     "category": "Kerala",
     "language": "en",
-    "publishedAt": "2026-05-08T16:07:23.000Z",
+    "publishedAt": "2026-05-08T17:09:48.000Z",
     "image": null,
     "hasImage": false,
     "hasArticleContent": true,
     "articlePath": "data/articles/2b72805c81f648c8.json"
+  },
+  {
+    "id": "6176e90b2a6c5b93",
+    "title": "Family Court can't deny divorce when both parties agree despite having no reason for separation: HC",
+    "summary": "A UK High Court ruled that a Family Court cannot refuse a divorce based solely on a lack of stated reason for separation, provided both parties still consent to the dissolution.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/05/08/kerala-hc-says-family-court-cannot-deny-mutual-divorce-over-no-reason-separation-claim.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-05-08T17:05:48.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/6176e90b2a6c5b93.json"
+  },
+  {
+    "id": "f3486a1a02acf08f",
+    "title": "KSU Leadership warns against street campaigns backing certain leaders for CM post",
+    "summary": "KSU president Aloysius Xavier warned against public pressure, street protests, and rallies attempting to influence the Congress leadership's decision on Kerala's next chief minister.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/05/08/ksu-leadership-warns-against-street-campaigns-backing-certain-leaders-for-cm-post.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-05-08T16:55:46.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/f3486a1a02acf08f.json"
+  },
+  {
+    "id": "4ac87a52a1cccea0",
+    "title": "Congress summons Satheesan, Chennithala, Sunny Joseph to Delhi as CM race heats up",
+    "summary": "Kerala Congress leaders are in Delhi to discuss government formation and chief minister selection after a UDF victory. Observers submitted a report, and discussions involve contenders like Satheesan and Venugopal.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/05/08/congress-cm-delhi-talks-satheesan-venugopal-chennithala.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-05-08T16:55:02.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/4ac87a52a1cccea0.json"
   },
   {
     "id": "94d2061dae91213b",
@@ -82,20 +138,6 @@
     "hasImage": false,
     "hasArticleContent": true,
     "articlePath": "data/articles/e5462e9e917cb118.json"
-  },
-  {
-    "id": "6176e90b2a6c5b93",
-    "title": "Family Court cannot deny divorce when both parties agree despite having no reason for separation: HC",
-    "summary": "A UK High Court ruled that a Family Court cannot refuse a divorce based solely on a lack of stated reason for separation, provided both parties still consent to the dissolution.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/05/08/kerala-hc-says-family-court-cannot-deny-mutual-divorce-over-no-reason-separation-claim.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-05-08T14:03:28.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/6176e90b2a6c5b93.json"
   },
   {
     "id": "05bf23c07b58ab5e",
@@ -194,34 +236,6 @@
     "hasImage": false,
     "hasArticleContent": true,
     "articlePath": "data/articles/e8fd4dec4a2b42b8.json"
-  },
-  {
-    "id": "33d13f862b725320",
-    "title": "K Satchidanandan resigns as Kerala Sahitya Akademi president after change in govt",
-    "summary": "Poet K Satchidanandan resigned as Kerala Sahitya Akademi president, citing the natural course of stepping down after a government change. He had served four years.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/05/08/k-satchidanandan-resigns-as-kerala-sahitya-akademi-president.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-05-08T12:27:13.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/33d13f862b725320.json"
-  },
-  {
-    "id": "2a0a4055f91a95d1",
-    "title": "Retired panchayat official killed in hit-and-run; fleeing truck chased down by passersby",
-    "summary": "A retired panchayat employee, 70, died in a hit-and-run on NH66 when a truck knocked him off his scooter and ran him over. The truck was later intercepted by police.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/05/08/retired-panchayat-official-killed-in-hit-and-run-fleeing-truck-chased-down-by-passersby.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-05-08T12:02:42.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/2a0a4055f91a95d1.json"
   },
   {
     "id": "2affc155d00ab9b6",
@@ -541,20 +555,6 @@
     "language": "ml",
     "publishedAt": "2026-05-08T03:19:59.000Z",
     "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/05/dmk-aiadmk-1778210330.jpg",
-    "hasImage": true,
-    "hasArticleContent": false,
-    "articlePath": null
-  },
-  {
-    "id": "efe19bf4230ec271",
-    "title": "സ്വർണം വാങ്ങാനും വിൽക്കാനും പേടിച്ച് മലയാളികൾ,കാരണം...;ഇതിനിടയിൽ തന്ത്രം മാറ്റി വൻകിട ജ്വല്ലറികളും",
-    "summary": "Gold Rate; Malayalees Not Buyig And Selling Gold; Here is what Happened, Explains Traderസ്വർണം വാങ്ങാനും വിൽക്കാനും പേടിച്ച് മലയാളികൾ,കാരണം...;ഇതിനിടയിൽ തന്ത്രം മാറ്റി വൻകിട ജ്വല്ലറികളും",
-    "url": "https://malayalam.oneindia.com/news/kerala/gold-rate-malayalees-not-buyig-and-selling-gold-here-is-what-happened-explains-trader-580103.html",
-    "source": "OneIndia",
-    "category": "Malayalam",
-    "language": "ml",
-    "publishedAt": "2026-05-08T03:02:51.000Z",
-    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/05/goldrate9-1778209327.jpg",
     "hasImage": true,
     "hasArticleContent": false,
     "articlePath": null
