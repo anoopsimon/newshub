@@ -1,5 +1,75 @@
 [
   {
+    "id": "e94dad9c6818267a",
+    "title": "Malappuram lightning deaths: Kuranganchola was victims' favourite hangout spot, open space turned fatal",
+    "summary": "Four friends died and two were injured when lightning struck a popular hilltop viewpoint in Malappuram during a sudden summer storm.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/05/12/kuranganchola-view-point-tragedy-lightning.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-05-12T18:40:17.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/e94dad9c6818267a.json"
+  },
+  {
+    "id": "5fe3c9048f42423d",
+    "title": "'മോദി നൽകിയത് രൂക്ഷമായ സാമ്പത്തിക മുരടിപ്പിന്റെ മുന്നറിയിപ്പ്, ചെയ്യേണ്ടത് വിലക്കയറ്റം തടയുകയാണ്'; ഐസക്",
+    "summary": "Thomas Isaac Says Modi Warned Of Severe Economic Slowdown And What He Should Do Is Stop Inflation . 'മോദി നൽകിയത് രൂക്ഷമായ സാമ്പത്തിക മുരടിപ്പിന്റെ മുന്നറിയിപ്പ്, അദ്ദേഹം ചെയ്യേണ്ടത് വിലക്കയറ്റം തടയുകയാണ്'; ഐസക്",
+    "url": "https://malayalam.oneindia.com/news/kerala/thomas-isaac-says-modi-warned-of-severe-economic-slowdown-and-what-he-should-do-is-stop-inflation-580811.html",
+    "source": "OneIndia",
+    "category": "Malayalam",
+    "language": "ml",
+    "publishedAt": "2026-05-12T18:33:45.000Z",
+    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/05/thomasisaacs7-1778610664.jpg",
+    "hasImage": true,
+    "hasArticleContent": false,
+    "articlePath": null
+  },
+  {
+    "id": "b792359f3241d186",
+    "title": "Man killed in Kollam mudslip as heavy rain batters Kerala",
+    "summary": "Thunderstorms accompanied by moderate rainfall and gusty winds reaching speeds of up to 50 kmph at isolated places are likely to occur in these districts.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/05/12/kerala-rain-imd-alert-ksdma.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-05-12T17:33:10.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/b792359f3241d186.json"
+  },
+  {
+    "id": "12333f233ddfc984",
+    "title": "Congress alleges foul play in assault on former CPM leader in Wayanad; parties seek probe",
+    "summary": "An alleged assault on a former councillor, found unconscious with injuries, has sparked a political row with parties demanding investigation amid accusations and denials of involvement.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/05/12/assault-on-former-councillor-in-wayanad-sparks-political-row-parties-seek-detailed-probe.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-05-12T17:27:07.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/12333f233ddfc984.json"
+  },
+  {
+    "id": "0855cb987da205c6",
+    "title": "I am no devotee, but communists are not barred from visiting temples: P Jayarajan",
+    "summary": "CPM leader P Jayarajan visited Kodungallur Sree Kurumba Bhagavati Temple for research on ‘Sanatanikalude Hindutva Vazhikal’. He stated it was for historical understanding, not devotion, and questioned some claims while...",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/05/12/jayarajan-temple-visit-explained.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-05-12T17:19:11.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/0855cb987da205c6.json"
+  },
+  {
     "id": "58fbf733bf303b5c",
     "title": "കേരളത്തിലെ മുഖ്യമന്ത്രിയെ തീരുമാനിക്കാൻ 8-ാം ദിനത്തിൽ അവസാനവട്ട ചർച്ച; പ്രഖ്യാപനം നാളെയുണ്ടാവും?",
     "summary": "Final Round Of Discussions To Decide Kerala CM Ongoing, Will The Announcement Be Made Tomorrow? . കേരളത്തിലെ മുഖ്യമന്ത്രിയെ തീരുമാനിക്കാൻ 8-ാം ദിനത്തിൽ അവസാനവട്ട ചർച്ച; പ്രഖ്യാപനം നാളെയുണ്ടാവും?",
@@ -26,20 +96,6 @@
     "hasImage": false,
     "hasArticleContent": true,
     "articlePath": "data/articles/b507604b46151595.json"
-  },
-  {
-    "id": "e94dad9c6818267a",
-    "title": "Kuranganchola view point tragedy: Hilltop known for sunset views witnesses sudden lightning horror",
-    "summary": "Four friends died and two were injured when lightning struck a popular hilltop viewpoint in Malappuram during a sudden summer storm.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/05/12/kuranganchola-view-point-tragedy-lightning.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-05-12T16:57:53.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/e94dad9c6818267a.json"
   },
   {
     "id": "54841aa9a14214b8",
@@ -112,20 +168,6 @@
     "articlePath": null
   },
   {
-    "id": "b792359f3241d186",
-    "title": "Man killed in Kollam mudslip as heavy rain batters Kerala; orange alert in 8 districts",
-    "summary": "Thunderstorms accompanied by moderate rainfall and gusty winds reaching speeds of up to 50 kmph at isolated places are likely to occur in these districts.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/05/12/kerala-rain-imd-alert-ksdma.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-05-12T15:41:32.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/b792359f3241d186.json"
-  },
-  {
     "id": "d4c4175cc674b8f7",
     "title": "Four youths killed in lightning strike at Malappuram tourist spot",
     "summary": "The victims were part of a seven-member group that had gone on a trip to the scenic hilltop area near Vellila, about five kilometres from Mankada.",
@@ -154,20 +196,6 @@
     "articlePath": null
   },
   {
-    "id": "2fdf47a503792546",
-    "title": "2 cousins drown in water body near home in Malappuram",
-    "summary": "Two young cousins, aged seven and four, tragically drowned in a water body near their Malappuram home while playing, with hospital staff confirming they were deceased upon arrival.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/05/12/malappuram-children-drown.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-05-12T13:17:47.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/2fdf47a503792546.json"
-  },
-  {
     "id": "cec77a8a3f411390",
     "title": "Idukki woman injured in wild boar attack while working on farm",
     "summary": "A woman was injured by a wild boar attack while farming; local residents intervened, and fear of similar incidents impacts daily life, prompting calls for urgent official action.",
@@ -180,20 +208,6 @@
     "hasImage": false,
     "hasArticleContent": true,
     "articlePath": "data/articles/cec77a8a3f411390.json"
-  },
-  {
-    "id": "0fef56b39703af73",
-    "title": "Tahsildar can permit private owners to erect gates, fences on govt land: HC",
-    "summary": "The Kerala High Court ruled a Tahsildar can permit gates on government land, allowing two brothers to apply again for a gate on land used for access.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/05/12/kerala-hc-says-tahsildar-can-permit-gates-fences-on-govt-land-under-land-conservancy-act.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-05-12T12:38:35.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/0fef56b39703af73.json"
   },
   {
     "id": "fde751ab60c3b8bb",
@@ -541,20 +555,6 @@
     "language": "ml",
     "publishedAt": "2026-05-12T03:59:08.000Z",
     "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/05/bangalore2-1778558313.jpg",
-    "hasImage": true,
-    "hasArticleContent": false,
-    "articlePath": null
-  },
-  {
-    "id": "60ea2dc8e340e345",
-    "title": "ജനപ്രിയ നീക്കങ്ങളുമായി വിജയ്; മദ്യശാലകള്‍ പൂട്ടാന്‍ ഉത്തരവ്, സ്‌കൂളുകള്‍ക്ക് അടുത്ത് വേണ്ട, കൈയ്യടി",
-    "summary": "Vijay TVK Govt Ordered To Close Tasmac Shops Which Operates Near Schools and Bus Stand In Tamil Nadu ജനപ്രിയ നീക്കങ്ങളുമായി വിജയ്; മദ്യശാലകള്‍ പൂട്ടാന്‍ ഉത്തരവ്, സ്‌കൂളുകള്‍ക്ക് അടുത്ത് വേണ്ട, കൈയ്യടി",
-    "url": "https://malayalam.oneindia.com/news/india/vijay-tvk-govt-ordered-to-close-tasmac-shops-which-operates-near-schools-and-bus-stand-in-tamil-nadu-011-580639.html",
-    "source": "OneIndia",
-    "category": "Malayalam",
-    "language": "ml",
-    "publishedAt": "2026-05-12T03:44:39.000Z",
-    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/05/vijaygovtclosewineshopintamilnadu--1778557447.jpg",
     "hasImage": true,
     "hasArticleContent": false,
     "articlePath": null
