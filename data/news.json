@@ -1,5 +1,61 @@
 [
   {
+    "id": "6f8a9e2bd1ba2f16",
+    "title": "Palakkad woman murder: Juvenile accused sent to observation home for seven days",
+    "summary": "A 17-year-old boy has been remanded to judicial custody for seven days, accused of murdering a 68-year-old woman and burning her body.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/07/13/palakkad-murder-teen-remanded.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-07-13T03:12:25.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/6f8a9e2bd1ba2f16.json"
+  },
+  {
+    "id": "4ca00786aa53a11d",
+    "title": "ബാങ്കോക്ക് ബാറിൽ തീപിടുത്തും; 27 പേർ കൊല്ലപ്പെട്ടു, 22 പേരുടെ നില അതീവ ഗുരുതരം",
+    "summary": "Fire breaks out at Bangkok bar; 27 killed, 22 critically injured, Details Insideബാങ്കോക്ക് ബാറിൽ തീപിടുത്തും; 27 പേർ കൊല്ലപ്പെട്ടു, 22 പേരുടെ നില അതീവ ഗുരുതരം",
+    "url": "https://malayalam.oneindia.com/news/india/fire-breaks-out-at-bangkok-bar-27-killed-22-critically-injured-details-inside-590145.html",
+    "source": "OneIndia",
+    "category": "Malayalam",
+    "language": "ml",
+    "publishedAt": "2026-07-13T01:51:00.000Z",
+    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/07/firemain-73841783907434.jpg",
+    "hasImage": true,
+    "hasArticleContent": false,
+    "articlePath": null
+  },
+  {
+    "id": "efc6ffd600c4ca84",
+    "title": "ഇറാനിലെ ഫരൂർ ദ്വീപിൽ യുഎസ് ആക്രമണം; ഒരാൾ കൊല്ലപ്പെട്ടു, രണ്ട് പേർക്ക് പരിക്ക്",
+    "summary": "US strikes Iran's Farur Island; one killed, two injured, Details Insideഇറാനിലെ ഫരൂർ ദ്വീപിൽ യുഎസ് ആക്രമണം; ഒരാൾ കൊല്ലപ്പെട്ടു, രണ്ട് പേർക്ക് പരിക്ക്",
+    "url": "https://malayalam.oneindia.com/news/international/us-strikes-irans-farur-island-one-killed-two-injured-details-inside-590143.html",
+    "source": "OneIndia",
+    "category": "Malayalam",
+    "language": "ml",
+    "publishedAt": "2026-07-13T01:23:20.000Z",
+    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/07/usirannews-59471783905773.jpg",
+    "hasImage": true,
+    "hasArticleContent": false,
+    "articlePath": null
+  },
+  {
+    "id": "244f3259d9e1ee6e",
+    "title": "Heavy rain eases in Kerala, showers to continue till Saturday",
+    "summary": "Kerala expects easing heavy rains by next week, with light showers until Saturday. No alerts are issued despite weak monsoon rainfall this season.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/07/13/light-showers-forecast-until-saturday.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-07-13T01:06:35.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/244f3259d9e1ee6e.json"
+  },
+  {
     "id": "3d10938b216feed8",
     "title": "Mystery surrounds disappearance of Palakkad family of three, police launch probe",
     "summary": "A family of three, including parents Babu Bhaskaran and Ramadevi, and their son Vishnu Babu, have gone missing from Palakkad after claiming to attend a wedding. Relatives' inability to contact them raised concerns.",
@@ -294,20 +350,6 @@
     "articlePath": null
   },
   {
-    "id": "a4df7813b96327ab",
-    "title": "Wayanad landslip: Missing construction manager's body recovered, death toll rises to 8",
-    "summary": "The final missing construction worker, Vikram Rana, was found dead, raising the Wayanad landslip death toll to eight and concluding the search.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/07/12/wayanad-landslip-missing-construction-manager-s-body-recovered-death-toll-rises-to-8.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-07-12T11:18:31.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/a4df7813b96327ab.json"
-  },
-  {
     "id": "4e8d0299b964bad7",
     "title": "ഡൽഹി എൻസിആറിൽ ടണൽ റോഡ്, യുപിയിൽ ഗ്രീൻഫീൽഡ് ഹൈവേ; 14,115 കോടി രൂപ ഇറക്കാൻ കേന്ദ്ര സർക്കാർ",
     "summary": "ഡൽഹി എൻസിആറിൽ ടണൽ റോഡ്, യുപിയിൽ ഗ്രീൻഫീൽഡ് ഹൈവേ; 14,115 കോടി രൂപ ഇറക്കാൻ കേന്ദ്ര സർക്കാർ . Delhi NCR Tunnel Road And UP Greenfield Highway; Centre To Invest Rs 14,115 Crore",
@@ -334,20 +376,6 @@
     "hasImage": true,
     "hasArticleContent": false,
     "articlePath": null
-  },
-  {
-    "id": "f6ebf5d62b01a9b1",
-    "title": "Auto driver's daughter from Kottayam is sought-after Malayalam teacher in Gulf, US",
-    "summary": "Punya Mohan offers online Malayalam classes to diverse students globally, expanding her venture, Malayali Wordsmith, which began during the pandemic. This venture provides income for teachers and fosters cultural...",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/07/12/autodriver-daughter-from-kottayam-is-sought-after-malayalam-teacher-in-gulf-united-states-malayali-wordsmith-punya-mohan.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-07-12T10:25:22.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/f6ebf5d62b01a9b1.json"
   },
   {
     "id": "d2f570b6bc757fb5",
@@ -527,34 +555,6 @@
     "language": "ml",
     "publishedAt": "2026-07-12T01:44:53.000Z",
     "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/07/us-military-37411783820146.jpg",
-    "hasImage": true,
-    "hasArticleContent": false,
-    "articlePath": null
-  },
-  {
-    "id": "cbf456a9650018fc",
-    "title": "വാനമ്പാടിയുടെ വിയോഗത്തിൽ കണ്ണീരണിഞ്ഞ് രാജ്യം; എസ്. ജാനകിക്ക് അനുശോചനവുമായി പ്രമുഖർ",
-    "summary": "Legendary singer S Janaki passes away. Prominent personalities including Kerala CM VD Satheesan, Pinarayi Vijayan, and actor Mammootty paid their last tributes. വിഖ്യാത ഗായിക എസ്. ജാനകിയുടെ വിയോഗത്തിൽ അനുശോചനം...",
-    "url": "https://malayalam.oneindia.com/news/kerala/legendary-singer-s-janaki-passes-away-prominent-personalities-paid-their-last-tributes-know-more-590023.html",
-    "source": "OneIndia",
-    "category": "Malayalam",
-    "language": "ml",
-    "publishedAt": "2026-07-11T18:08:47.000Z",
-    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/07/s-janaki-35231783792974.jpg",
-    "hasImage": true,
-    "hasArticleContent": false,
-    "articlePath": null
-  },
-  {
-    "id": "cd18e369e2ca0bc6",
-    "title": "ജനസംഖ്യാ നിയന്ത്രണത്തിനൊരുങ്ങി പാകിസ്താന്‍; കമ്മിറ്റിയെ നയിക്കുന്നത് സൈനിക മേധാവി",
-    "summary": "Pakistan | Field Marshal Asim Munir is leading the committee, മുനീറിനെ കൂടാതെ, ധനമന്ത്രി മുഹമ്മദ് ഔറംഗസേബും ആസൂത്രണ മന്ത്രി അഹ്സാന്‍ ഇഖ്ബാലും കമ്മിറ്റിയില്‍ ഉള്‍പ്പെടുന്നു",
-    "url": "https://malayalam.oneindia.com/news/international/pakistan-prepared-new-plan-to-control-population-field-marshal-asim-munir-lead-the-high-level-commi-590021.html",
-    "source": "OneIndia",
-    "category": "Malayalam",
-    "language": "ml",
-    "publishedAt": "2026-07-11T17:36:22.000Z",
-    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/07/pakis-51361783791362.jpg",
     "hasImage": true,
     "hasArticleContent": false,
     "articlePath": null
