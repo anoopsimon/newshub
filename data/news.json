@@ -1,5 +1,61 @@
 [
   {
+    "id": "2b87cde47b787220",
+    "title": "സ്വര്‍ണം വിയര്‍ക്കുന്നു, വിലയില്‍ ഇന്നും വലിയ വീഴ്ച; കുതിച്ചുയര്‍ന്ന് ക്രൂഡ് ഓയില്‍ വില",
+    "summary": "Gold Rate | Last week, the discount rate for gold rose to its highest level in a month, ക്രൂഡ് ഓയില്‍ വില ബാരലിന് 90 ഡോളറിന് മുകളിലെത്തിയതാണ് പൊന്നിന് വിനയായത്",
+    "url": "https://malayalam.oneindia.com/news/international/gold-rate-in-global-market-marks-significant-drop-today-amid-crude-oil-price-cross-90-dollar-per-bar-591047.html",
+    "source": "OneIndia",
+    "category": "Malayalam",
+    "language": "ml",
+    "publishedAt": "2026-07-20T03:30:24.000Z",
+    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/07/goldf-25161784516061.jpg",
+    "hasImage": true,
+    "hasArticleContent": false,
+    "articlePath": null
+  },
+  {
+    "id": "4b2d65a694515ba4",
+    "title": "Two migrant labourers held for trafficking nine minors to Ernakulam for child labour",
+    "summary": "Two migrant labourers were arrested for trafficking nine children from Bihar to Ernakulam for suspected child labour, with police investigating further involvement and the intended employer.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/07/20/bihar-men-held-child-trafficking-kerala.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-07-20T03:19:22.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/4b2d65a694515ba4.json"
+  },
+  {
+    "id": "c2b0fdd86c10d8a7",
+    "title": "Fisherman drowns after wave overturns boat off Vizhinjam coast",
+    "summary": "A fisherman drowned after his boat capsized due to a strong wave, with rescue attempts failing due to an undercurrent.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/07/20/fisherman-drowns-vizhinjam.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-07-20T02:34:36.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/c2b0fdd86c10d8a7.json"
+  },
+  {
+    "id": "9565d556c2c73ef4",
+    "title": "Muraleedharan's 'food ban' serves credibility-starved DYFI nourishment",
+    "summary": "Kerala's Health Minister K Muraleedharan faced backlash for initially banning organisations from distributing food in hospitals, which was seen as targeting DYFI and Seva Bharathi, before clarifying it applied only to...",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/07/20/muraleedharan-food-ban-hospital-dyfi.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-07-20T00:55:12.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/9565d556c2c73ef4.json"
+  },
+  {
     "id": "da623926b8fc5681",
     "title": "പശ്ചിമേഷ്യയില്‍ സംഘർഷം കനക്കുന്നു, ഇറാനിലേക്ക് ഇപ്പോൾ യാത്ര വേണ്ടെന്ന് ഇന്ത്യന്‍ പൗരന്മാര്‍ക്ക് നിർദേശം",
     "summary": "Tensions escalate in West Asia; Indian citizens advised not to travel to Iran at present| പശ്ചിമേഷ്യയില്‍ സംഘർഷം കനക്കുന്നു, ഇറാനിലേക്ക് ഇപ്പോൾ യാത്ര വേണ്ടെന്ന് ഇന്ത്യന്‍ പൗരന്മാര്‍ക്ക് നിർദേശം",
@@ -154,20 +210,6 @@
     "articlePath": null
   },
   {
-    "id": "45d3f7cf593c7162",
-    "title": "Amid row over DYFI lunch packets in hospitals, minister says govt not against food distribution",
-    "summary": "Kerala's Health Minister clarified that the government supports hospital food provision, only objecting to voluntary groups occupying space and displaying political identities, not humanitarian aid itself.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/07/19/food-distribution-row-govt-not-against-serving-food-to-patients-says-health-minister.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-07-19T15:39:30.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/45d3f7cf593c7162.json"
-  },
-  {
     "id": "07c3fc723c822878",
     "title": "സര്‍വകക്ഷി യോഗത്തില്‍ നിന്ന് പ്രതിപക്ഷം ഇറങ്ങിപ്പോയി; പാര്‍ലമെന്റ് സമ്മേളനം പ്രക്ഷുബ്ദമാകും",
     "summary": "Opposition Walks Out In All-Party Meeting; Parliament Monsoon Session Set To Be Stormy, Details Inside സര്‍വകക്ഷി യോഗത്തില്‍ നിന്ന് പ്രതിപക്ഷം ഇറങ്ങിപ്പോയി; പാര്‍ലമെന്റ് സമ്മേളനം പ്രക്ഷുബ്ദമാകും",
@@ -182,20 +224,6 @@
     "articlePath": null
   },
   {
-    "id": "e9559c2f034e58f6",
-    "title": "13 Class XII students booked for ragging, assaulting juniors over wearing shoes",
-    "summary": "Thirteen senior students were booked for allegedly ragging and assaulting two juniors at a Kerala school, who were targeted for wearing shoes.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/07/19/13-class-xii-students-booked-for-ragging-assaulting-students-for-wearing-shoes.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-07-19T14:19:03.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/e9559c2f034e58f6.json"
-  },
-  {
     "id": "e25c2f5fba3e10d8",
     "title": "'വിശക്കുന്നവന് ആഹാരം നൽകുന്നത് മനുഷ്യത്വം,അത് തിരിച്ചറിയാനുള്ള വിവേകം വേണം', മുരളിക്ക് മറുപടി",
     "summary": "DYFI-K Muraleedharan Clash: '' Feeding the hungry is an act of humanity; one must have the wisdom to understand that\"; Pinarayi Vijayan Reacts| 'വിശക്കുന്നവന് ആഹാരം നൽകുന്നത് മനുഷ്യത്വം,അത് തിരിച്ചറിയാനുള്ള വിവേകം...",
@@ -208,20 +236,6 @@
     "hasImage": true,
     "hasArticleContent": false,
     "articlePath": null
-  },
-  {
-    "id": "94b59843fbcee911",
-    "title": "Telangana bizman duped of ₹5cr in honey-trap case in TVM, four held",
-    "summary": "Four individuals, including Roshini Suresh, have been arrested for allegedly extorting ₹5 crore from a Telangana businessman through a honey trap. They reportedly used a child as leverage for blackmail.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/07/19/businessman-cheated-5-crore-honey-trap-extortion.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-07-19T14:08:15.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/94b59843fbcee911.json"
   },
   {
     "id": "2f17f0a73cc9f9e3",
@@ -541,20 +555,6 @@
     "language": "ml",
     "publishedAt": "2026-07-18T09:10:55.000Z",
     "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/07/isr-13241784365836.jpg",
-    "hasImage": true,
-    "hasArticleContent": false,
-    "articlePath": null
-  },
-  {
-    "id": "e0f7f3fd91c2a046",
-    "title": "വിഴിഞ്ഞം തുറമുഖത്ത് എക്‌സിം ഓഗസ്റ്റ് 18 മുതല്‍; പ്രമുഖരെ സാക്ഷിയാക്കി മിഷന്‍ സമുദ്ര പ്രഖ്യാപനം",
-    "summary": "EXIM Operations At Vizhinjam Port To Begin On August 18; 'Mission Samudra' Will Announce വിഴിഞ്ഞം തുറമുഖത്ത് എക്‌സിം ഓഗസ്റ്റ് 18 മുതല്‍; പ്രമുഖരെ സാക്ഷിയാക്കി മിഷന്‍ സമുദ്ര പ്രഖ്യാപനം",
-    "url": "https://malayalam.oneindia.com/news/kerala/exim-operations-at-vizhinjam-port-to-begin-on-august-18-mission-samudra-will-announce-590905.html",
-    "source": "OneIndia",
-    "category": "Malayalam",
-    "language": "ml",
-    "publishedAt": "2026-07-18T09:00:49.000Z",
-    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/07/vizhinjamporteximbeginonaugust18--75021784365222.jpg",
     "hasImage": true,
     "hasArticleContent": false,
     "articlePath": null
