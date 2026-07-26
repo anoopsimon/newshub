@@ -7,11 +7,53 @@
     "source": "OneIndia",
     "category": "Malayalam",
     "language": "ml",
-    "publishedAt": "2026-07-26T15:27:41.000Z",
+    "publishedAt": "2026-07-26T18:40:07.000Z",
     "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/07/1-55321785079252.jpg",
     "hasImage": true,
     "hasArticleContent": false,
     "articlePath": null
+  },
+  {
+    "id": "355615943585f664",
+    "title": "39-year-old man drowns at Kattikayam waterfalls in Kottayam",
+    "summary": "Titto Joseph, 39, drowned at Kattikayam waterfalls on Sunday while on a group leisure trip. He was pronounced dead at Pala General Hospital.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/07/26/39-year-old-drowns-at-kattikayam-waterfalls.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-07-26T17:28:22.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/355615943585f664.json"
+  },
+  {
+    "id": "50c0e0440cf7745a",
+    "title": "Kasaragod mother seeks justice, blames NEET cancellation for daughter's death",
+    "summary": "Aija's mother alleges that the stress from the NEET exam cancellation contributed to her daughter's suicide, as Aija expressed inability to face re-preparation.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/07/26/kasaragod-mother-seeks-justice-blames-neet-cancellation-for-daughter-s-death.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-07-26T16:40:46.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/50c0e0440cf7745a.json"
+  },
+  {
+    "id": "06ededc11b8340ed",
+    "title": "Kerala govt acts after HC judges express outrage at condition of TVM mental health centre",
+    "summary": "High Court judges' shock at appalling conditions in Thiruvananthapuram Mental Health Centre has prompted the Kerala government to draft a masterplan, addressing vacant posts, facilities, and patient rehabilitation.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/07/26/kerala-govt-acts-after-hc-judges-express-outrage-at-condition-of-tvm-mental-health-centre.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-07-26T16:24:13.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/06ededc11b8340ed.json"
   },
   {
     "id": "84ae541099a9c341",
@@ -26,20 +68,6 @@
     "hasImage": false,
     "hasArticleContent": true,
     "articlePath": "data/articles/84ae541099a9c341.json"
-  },
-  {
-    "id": "06ededc11b8340ed",
-    "title": "Kerala govt acts after HC judges express outrage at condition of TVM mental health centre",
-    "summary": "High Court judges' shock at appalling conditions in Thiruvananthapuram Mental Health Centre has prompted the Kerala government to draft a masterplan, addressing vacant posts, facilities, and patient rehabilitation.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/07/26/kerala-govt-acts-after-hc-judges-express-outrage-at-condition-of-tvm-mental-health-centre.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-07-26T15:21:06.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/06ededc11b8340ed.json"
   },
   {
     "id": "f95a6842d0aa46d0",
@@ -96,20 +124,6 @@
     "hasImage": true,
     "hasArticleContent": false,
     "articlePath": null
-  },
-  {
-    "id": "0581f74b2fb9f777",
-    "title": "Malappuram bus crash: Driver booked for rash, negligent driving",
-    "summary": "A bus driver faces charges after a crash on the National Highway, resulting in one fatality and multiple injuries. The vehicle lost control, hitting a divider and overturning.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/07/26/malappuram-bus-crash-driver-booked-for-rash-negligent-driving.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-07-26T13:45:31.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/0581f74b2fb9f777.json"
   },
   {
     "id": "298f5ed9f44b398a",
@@ -180,20 +194,6 @@
     "hasImage": true,
     "hasArticleContent": false,
     "articlePath": null
-  },
-  {
-    "id": "f3c73c493e33e580",
-    "title": "Iron bolts, tyre fillers reignite safety fears on Vizhinjam bypass",
-    "summary": "Concerns over the Vizhinjam bypass's structural safety persist due to iron bolts and tyre pieces in its retaining wall, despite NHAI claims of no collapse risk.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/07/26/bypass-safety-concerns-retaining-wall-repairs.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-07-26T13:03:44.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/f3c73c493e33e580.json"
   },
   {
     "id": "fa08fb42c88a285d",
