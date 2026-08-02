@@ -1,17 +1,73 @@
 [
   {
+    "id": "2a7c4b6af3d26647",
+    "title": "Kerala rains: Holiday for educational institutions in 11 districts on Monday",
+    "summary": "Kerala faces widespread flooding and heavy rainfall, prompting Monday holidays for educational institutions in ten districts. Yellow alerts predict 7-11 cm rain daily, with strong winds and potential landslides until...",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/08/02/holiday-rain-kerala-school-college-educational-institutions-monday-districts-flood.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-08-02T16:01:36.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/2a7c4b6af3d26647.json"
+  },
+  {
     "id": "60a0eb705f2311d6",
-    "title": "നാളെ സ്‌കൂള്‍ അവധി; അതിശക്തമായ മഴ തുടരും എന്ന് കാലാവസ്ഥാ നിരീക്ഷണ കേന്ദ്രം",
+    "title": "നാളെ 10 ജില്ലകളില്‍ സ്‌കൂള്‍ അവധി; ശക്തമായ മഴ തുടരും എന്ന് കാലാവസ്ഥാ നിരീക്ഷണ കേന്ദ്രം",
     "summary": "School Holiday | All educational institutions will remain closed on Monday, നാളെ ഈ രണ്ട് ജില്ലകളില്‍ തീവ്രമഴ മുന്നറിയിപ്പായ ഓറഞ്ച് അലര്‍ട്ട് പ്രഖ്യാപിച്ചിരിക്കുകയാണ്",
     "url": "https://malayalam.oneindia.com/news/kerala/school-holiday-very-heavy-rainfall-expects-across-kerala-these-districts-announce-school-holiday-f-592825.html",
     "source": "OneIndia",
     "category": "Malayalam",
     "language": "ml",
-    "publishedAt": "2026-08-02T13:37:04.000Z",
+    "publishedAt": "2026-08-02T15:56:52.000Z",
     "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/08/rainhg-15271785673116.jpg",
     "hasImage": true,
     "hasArticleContent": false,
     "articlePath": null
+  },
+  {
+    "id": "33dee7d56f835fc1",
+    "title": "Kerala teacher, family from TVM found dead in Pune flat",
+    "summary": "A Malayali family of three—Vinod Pillai, his wife Silja, and daughter Poornima—were found dead in their Pimpri, Maharashtra apartment. The teacher, Silja, failed to attend work, prompting neighbours to discover the...",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/08/02/kerala-teacher-family-from-thiruvananthapuram-found-dead-in-pune-flat-couple-maharashtra.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-08-02T15:41:51.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/33dee7d56f835fc1.json"
+  },
+  {
+    "id": "a3a67fdcc1d8566f",
+    "title": "'മുഖ്യമന്ത്രി വരുന്ന സദസ്സില്‍ മാന്യമായി വസ്ത്രം ധരിച്ചൂടെ'; ഐശ്വര്യയ്‌ക്കെതിരെ തെസ്‌നി ഖാന്‍",
+    "summary": "Thesny Khan | A video of Aishwarya Chandran taking a photo with the Chief Minister has also gone viral on social media, സംസ്ഥാനം പ്രളയത്തില്‍ മുങ്ങിയിരിക്കുമ്പോള്‍ മുഖ്യമന്ത്രി ജ്വല്ലറി ഉദ്ഘാടനത്തിന് പോയതും...",
+    "url": "https://malayalam.oneindia.com/news/kerala/thesny-khan-slams-actress-aiswaria-chandrans-dress-in-photi-with-vd-satheesans-jewellery-inaugurat-592835.html",
+    "source": "OneIndia",
+    "category": "Malayalam",
+    "language": "ml",
+    "publishedAt": "2026-08-02T14:53:32.000Z",
+    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/08/thes-99201785682379.jpg",
+    "hasImage": true,
+    "hasArticleContent": false,
+    "articlePath": null
+  },
+  {
+    "id": "03e3d25eb2acc6aa",
+    "title": "How a bureaucrat's 'unofficial note' & jailed BJP councillor kicked up storm in TVM Corp, Secretariat",
+    "summary": "A Kerala municipal councillor, R Sugathan, made history by retaking his oath from prison and being granted long-term leave as a KAAPA detainee, sparking a political row over departmental involvement.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/08/02/how-a-bureaucrat-s-unofficial-note-jailed-bjp-councillor-kicked-up-storm-in-tvm-corp-secretariat.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-08-02T14:44:59.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/03e3d25eb2acc6aa.json"
   },
   {
     "id": "3d8b4b4d519f61dc",
@@ -40,20 +96,6 @@
     "hasImage": false,
     "hasArticleContent": true,
     "articlePath": "data/articles/bf935159acab7071.json"
-  },
-  {
-    "id": "2a7c4b6af3d26647",
-    "title": "Kerala rains: Holiday for educational institutions in Kannur, Pathanamthitta on Monday",
-    "summary": "Kerala faces continued widespread rainfall and flooding. Pathanamthitta schools are closed Monday due to a yellow alert forecasting heavy rain and strong winds, with advisories issued for safety.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/08/02/holiday-rain-kerala-school-college-educational-institutions-monday-districts-flood.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-08-02T12:35:31.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/2a7c4b6af3d26647.json"
   },
   {
     "id": "fb3116868fe8cb3a",
@@ -140,20 +182,6 @@
     "articlePath": "data/articles/f6f02058ff6fe818.json"
   },
   {
-    "id": "149fef34fe826a16",
-    "title": "Body of missing fisherman in Muthalapozhi boat mishap recovered",
-    "summary": "A fisherman's body was recovered after a boat capsized, with a search ongoing for another missing fisherman amid ongoing maritime incidents.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/08/02/fisherman-body-recovered-muthalapozhi.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-08-02T11:29:37.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/149fef34fe826a16.json"
-  },
-  {
     "id": "bbdbc1e322ce7ea2",
     "title": "Pattoor drunk driving crash: Court grants bail to two accused after biker loses leg",
     "summary": "Two men accused in a serious road accident, which resulted in a motorcyclist losing a leg and others being injured, have been granted bail by a court.",
@@ -208,20 +236,6 @@
     "hasImage": false,
     "hasArticleContent": true,
     "articlePath": "data/articles/eb07be7a6bbfb560.json"
-  },
-  {
-    "id": "465b247facdd3119",
-    "title": "Insurance is not an expense, it is a lifetime of hard-earned savings secured, says Lavanya Mundayur",
-    "summary": "She joined New India Assurance in 1991 as a direct recruit officer. Today, nearly 35 years later, she prepares to take charge of the 108-year-old institution as its first Malayali CMD.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/08/02/lavanya-mundayur-new-india-assurance-cmd-interview-manorama-2026.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-08-02T09:17:53.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/465b247facdd3119.json"
   },
   {
     "id": "5bb56282ae67974c",
@@ -541,20 +555,6 @@
     "language": "ml",
     "publishedAt": "2026-08-01T11:01:25.000Z",
     "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/08/goldornament2-26041785582060.jpg",
-    "hasImage": true,
-    "hasArticleContent": false,
-    "articlePath": null
-  },
-  {
-    "id": "30e7bf08df5fcb52",
-    "title": "'കടമെടുക്കാതെ ഖജനാവ് നിറയ്ക്കാനുള്ള സൂത്രപ്പണിയൊക്കെ മറന്നുപോയി', സതീശനെ പരിഹസിച്ച് തോമസ് ഐസക്",
-    "summary": "Thomas Isaac mocks VD Satheesan;'Looks like he has forgotten all the tricks to fill the state treasury without borrowing.' | 'കടമെടുക്കാതെ ഖജനാവ് നിറയ്ക്കാനുള്ള സൂത്രപ്പണിയൊക്കെ മറന്നുപോയി', സതീശനെ പരിഹസിച്ച് തോമസ് ഐസക്",
-    "url": "https://malayalam.oneindia.com/news/kerala/thomas-isaac-mocks-vd-satheesan-looks-like-he-has-forgotten-all-the-tricks-to-fill-state-treasury-592693.html",
-    "source": "OneIndia",
-    "category": "Malayalam",
-    "language": "ml",
-    "publishedAt": "2026-08-01T10:28:30.000Z",
-    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/08/1-12381785579897.jpg",
     "hasImage": true,
     "hasArticleContent": false,
     "articlePath": null
