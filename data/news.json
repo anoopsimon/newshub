@@ -1,5 +1,75 @@
 [
   {
+    "id": "09f39c1cba4078d9",
+    "title": "നെടുമ്പാശ്ശേരി വിമാനത്താവളത്തെ കൊച്ചി ഔട്ടർ റിംഗ് റോഡുമായി ബന്ധിപ്പിക്കും; 2 കിലോമീറ്ററിൽ ലിങ്ക് റോഡ് വരും",
+    "summary": "നെടുമ്പാശ്ശേരി വിമാനത്താവളത്തെ കൊച്ചി ഔട്ടർ റിംഗ് റോഡുമായി ബന്ധിപ്പിക്കും; 2 കിലോമീറ്ററിൽ ലിങ്ക് റോഡ് വരും . Nedumbassery Airport To Be Connected With Kochi Outer Ring Road; 2 Km Link Road To Be Constructed",
+    "url": "https://malayalam.oneindia.com/news/kerala/nedumbassery-airport-to-be-connected-with-kochi-outer-ring-road-2-km-link-road-to-be-constructed-593289.html",
+    "source": "OneIndia",
+    "category": "Malayalam",
+    "language": "ml",
+    "publishedAt": "2026-08-05T18:44:22.000Z",
+    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/08/kochi65-51661785955259.jpg",
+    "hasImage": true,
+    "hasArticleContent": false,
+    "articlePath": null
+  },
+  {
+    "id": "b2e4f3a455525dcc",
+    "title": "Kerala HC orders Vigilance probe into alleged irregularities in Milma ghee procurement for Sabarimala",
+    "summary": "Kerala High Court ordered a vigilance probe into alleged irregularities and potential misappropriation in Milma ghee procurement for Sabarimala, citing grave concerns over higher costs and unverified claims.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/08/05/kerala-hc-orders-vigilance-probe-into-alleged-irregularities-in-milma-ghee-procurement-for-sabarimala.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-08-05T17:14:06.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/b2e4f3a455525dcc.json"
+  },
+  {
+    "id": "c590403f04cdf52c",
+    "title": "ഇന്ത്യ എല്ലാ പ്രതിസന്ധിയിലും ഒപ്പം നിന്നുവെന്ന് ഷെയ്ഖ് ഹസീന; 'ബംഗ്ലാദേശിലേക്ക് മടങ്ങും, പിന്തിരിയില്ല'",
+    "summary": "ഇന്ത്യ എല്ലാ പ്രതിസന്ധിയിലും ഒപ്പം നിന്നുവെന്ന് ഷെയ്ഖ് ഹസീന; 'ബംഗ്ലാദേശിലേക്ക് മടങ്ങും, പിന്തിരിയില്ല' . Sheikh Hasina Says India Stood By Us Through Every Crisis Vows To Return To Bangladesh",
+    "url": "https://malayalam.oneindia.com/news/india/sheikh-hasina-says-india-stood-by-us-through-every-crisis-vows-to-return-to-bangladesh-593279.html",
+    "source": "OneIndia",
+    "category": "Malayalam",
+    "language": "ml",
+    "publishedAt": "2026-08-05T17:06:07.000Z",
+    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/08/sheikhhasina1-24201785949379.jpg",
+    "hasImage": true,
+    "hasArticleContent": false,
+    "articlePath": null
+  },
+  {
+    "id": "c5ece7ee97550848",
+    "title": "Pollution Control Board orders shutdown of Fresh Cut poultry waste plant in Kozhikode",
+    "summary": "A poultry waste processing plant has been ordered to close immediately by the Kerala State Pollution Control Board due to severe environmental and health hazards, following persistent local complaints.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/08/05/thamarassery-fresh-cut-ambayathode-waste-unit-kerala-pollution-board-closure-order.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-08-05T16:38:23.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/c5ece7ee97550848.json"
+  },
+  {
+    "id": "7b0d5788653178b2",
+    "title": "After Jayalalithaa, Vijay wants to increase Mullaperiyar storage level. Kerala objects",
+    "summary": "Tamil Nadu's finance minister announced plans to raise Mullaperiyar Dam's water level, prompting Kerala's strong objection due to safety concerns and a desire for a new dam.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/08/05/after-jayalalitha-vijay-wants-to-increase-mullaperiyar-storage-level-kerala-objects.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-08-05T16:32:24.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/7b0d5788653178b2.json"
+  },
+  {
     "id": "44e36b232c1089f9",
     "title": "Man disguises as woman to allegedly kill ex-girlfriend, 5 held in Guruvayur",
     "summary": "Five men, including one who allegedly disguised himself as a woman to kill his ex-girlfriend, were arrested by Guruvayur Police.",
@@ -56,20 +126,6 @@
     "articlePath": null
   },
   {
-    "id": "c5ece7ee97550848",
-    "title": "Pollution Control Board orders shutdown of Freshcut poultry waste plant in Kozhikode",
-    "summary": "A poultry waste processing plant has been ordered to close immediately by the Kerala State Pollution Control Board due to severe environmental and health hazards, following persistent local complaints.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/08/05/thamarassery-fresh-cut-ambayathode-waste-unit-kerala-pollution-board-closure-order.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-08-05T15:40:24.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/c5ece7ee97550848.json"
-  },
-  {
     "id": "8baa9c77e8dadef5",
     "title": "Malappuram landslip: Mining department orders district-wide crackdown on illegal excavation",
     "summary": "Malappuram's Mining and Geology Department is forming a special squad to stop illegal mining, following concerns it caused a recent landslip. An explanation is also sought regarding the landslide.",
@@ -96,20 +152,6 @@
     "hasImage": true,
     "hasArticleContent": false,
     "articlePath": null
-  },
-  {
-    "id": "06f2c003ec862f84",
-    "title": "Holiday for educational institutions in several taluks, relief camp schools to remain shut in 3 districts",
-    "summary": "Educational institutions in Thiruvalla taluk, Pathanamthitta, will close on August 6 due to heavy rain and relief camps, with other taluks exempting only schools used for shelter.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/08/05/kerala-rain-schools-relief-camps-educational-institutions-holiday.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-08-05T15:20:33.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/06f2c003ec862f84.json"
   },
   {
     "id": "de57cf1b096e7bab",
@@ -292,20 +334,6 @@
     "hasImage": false,
     "hasArticleContent": true,
     "articlePath": "data/articles/3e9fd838d8d1a2d8.json"
-  },
-  {
-    "id": "3a9685a6dcd9b4b9",
-    "title": "School bus driver dies of heart attack while dropping kids home, vehicle crashes into TVM home",
-    "summary": "A school bus driver, Muraleedharan, passed away after experiencing a heart attack while on his final route, dropping students off.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/08/05/school-bus-driver-dies-of-heart-attack-while-dropping-kids-home-in-thiruvananthapuram.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-08-05T13:15:05.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/3a9685a6dcd9b4b9.json"
   },
   {
     "id": "bf91b645614da8aa",
@@ -527,34 +555,6 @@
     "language": "ml",
     "publishedAt": "2026-08-04T18:30:47.000Z",
     "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/08/sjhuo-11101785866527.jpg",
-    "hasImage": true,
-    "hasArticleContent": false,
-    "articlePath": null
-  },
-  {
-    "id": "de0b643e5b3f1bde",
-    "title": "യുപിഐ ഇടപാടുകള്‍ ഇനി സൗജന്യമല്ല; 2000 രൂപക്ക് മുകളിലുള്ള ഇടപാടുകള്‍ക്ക് ചാര്‍ജ് ഈടാക്കാന്‍ കേന്ദ്രം",
-    "summary": "UPI Payments | Fees may be imposed on UPI transactions exceeding ₹2,000, 'മര്‍ച്ചന്റ് ഡിസ്‌കൗണ്ട് റേറ്റ്' നടപ്പിലാക്കുന്നതിനുള്ള നിയമപരമായ സാധ്യതയാണ് ഈ ഭേദഗതിയിലൂടെ തുറന്നുകിട്ടുന്നത്.",
-    "url": "https://malayalam.oneindia.com/news/kerala/upi-payments-above-rs-2-000-may-soon-attract-a-fee-under-new-law-amendment-details-inside-593151.html",
-    "source": "OneIndia",
-    "category": "Malayalam",
-    "language": "ml",
-    "publishedAt": "2026-08-04T17:32:01.000Z",
-    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/08/upis-26981785864427.jpg",
-    "hasImage": true,
-    "hasArticleContent": false,
-    "articlePath": null
-  },
-  {
-    "id": "7377426a64cfd664",
-    "title": "തന്നെ ഭീകരവാദിയെപ്പോലെയാണ് കൈകാര്യം ചെയ്തതെന്ന് ഉദയനിധി; 'പറഞ്ഞത് കര്‍ഷകരുടെ പ്രശ്‌നങ്ങള്‍'",
-    "summary": "Udhayanidhi Stalin | His reaction came after he was released from police custody, ഭരണകൂടം തന്നെ ഒരു ഭീകരവാദിയെപ്പോലെയാണ് കൈകാര്യം ചെയ്തതെന്ന് ഉദയനിധി",
-    "url": "https://malayalam.oneindia.com/news/india/vijay-govt-treated-me-like-a-terrorist-says-udhayanidhi-stalin-denies-objectionable-remark-against-593149.html",
-    "source": "OneIndia",
-    "category": "Malayalam",
-    "language": "ml",
-    "publishedAt": "2026-08-04T16:40:19.000Z",
-    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/08/udhata-25381785861597.jpg",
     "hasImage": true,
     "hasArticleContent": false,
     "articlePath": null
