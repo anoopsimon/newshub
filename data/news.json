@@ -1,5 +1,89 @@
 [
   {
+    "id": "6f607a5b169a85a9",
+    "title": "Aranmula MLA Abin Varkey, four others injured in Pathanamthitta road accident; case registered",
+    "summary": "Aranmula MLA Abin Varkey and three others were injured in a car collision while returning from flood relief work; all are in stable condition.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/08/05/aranmula-mla-abivarkey-injured-accident.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-08-05T02:56:16.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/6f607a5b169a85a9.json"
+  },
+  {
+    "id": "42587098a54ab1b5",
+    "title": "Talrop layoffs: Wage dispute settled, pending salaries to be paid by Oct 31",
+    "summary": "Talrop Private Limited will clear pending salaries for terminated/resigned staff by October 31, following a labour commissioner-led settlement, with further demands addressed in November.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/08/05/talrop-wage-dispute-settled-pending-salaries-to-be-paid-by-oct-31.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-08-05T02:42:34.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/42587098a54ab1b5.json"
+  },
+  {
+    "id": "5f799163e1b94931",
+    "title": "Railway cop assaulted at Varkala after confronting youths for abusing passengers; two booked",
+    "summary": "A police officer was allegedly assaulted by two youths at Varkala railway station after he intervened when they verbally abused passengers; suspects are being traced.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/08/05/railway-officer-assaulted-varkala-station-violence.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-08-05T02:27:21.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/5f799163e1b94931.json"
+  },
+  {
+    "id": "2679153c9649b325",
+    "title": "Kerala rain: Orange alert in 9 districts; educational institutions closed in 10",
+    "summary": "Kerala faces continued heavy rainfall forecasts until August 10, with orange alerts issued for several districts, warning of potential waterlogging, landslides, and disruption to transport and power.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/08/05/kerala-rain-orange-alert-yellow-red-holiday-educational-institutions-live.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-08-05T02:03:01.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/2679153c9649b325.json"
+  },
+  {
+    "id": "b57efed992e48035",
+    "title": "അതിശക്തമായ മഴ; ഇന്ന് 9 ജില്ലകളില്‍ ഓറഞ്ച് അലര്‍ട്ട്; 10 ജില്ലകളില്‍ വിദ്യാഭ്യാസ സ്ഥാപനങ്ങള്‍ക്ക് അവധി",
+    "summary": "Heavy Rain: Orange Alert in 9 Districts Today; Educational Institutions Closed in 10 Districts.അതിശക്തമായ മഴ; ഇന്ന് 9 ജില്ലകളില്‍ ഓറഞ്ച് അലര്‍ട്ട്; 10 ജില്ലകളില്‍ വിദ്യാഭ്യാസ സ്ഥാപനങ്ങള്‍ക്ക് അവധി",
+    "url": "https://malayalam.oneindia.com/news/kerala/heavy-rain-orange-alert-in-9-districts-today-educational-institutions-closed-in-10-districts-593161.html",
+    "source": "OneIndia",
+    "category": "Malayalam",
+    "language": "ml",
+    "publishedAt": "2026-08-05T01:27:14.000Z",
+    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/08/raind-57981785893207.jpg",
+    "hasImage": true,
+    "hasArticleContent": false,
+    "articlePath": null
+  },
+  {
+    "id": "c4affd33a9e83241",
+    "title": "National security concerns over Kochi's ₹80 cr housing project; beneficiaries await clearance",
+    "summary": "Nearly 400 Kochi residents cannot occupy their new homes until security clearance is granted due to the project's proximity to sensitive installations.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/08/05/national-security-concerns-over-kochi-s-80-cr-housing-project-beneficiaries-await-clearance.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-08-05T01:11:46.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/c4affd33a9e83241.json"
+  },
+  {
     "id": "435329b79ce90d8e",
     "title": "ചെങ്കടലില്‍ ഇന്ത്യന്‍ പതാകയുള്ള ചരക്ക് കപ്പല്‍ മുക്കി പ്രൊജക്ടൈല്‍ ആക്രമണം; നാവികരെ രക്ഷപ്പെടുത്തി",
     "summary": "Red Sea | The Yemeni Coast Guard safely rescued the 14 sailors and brought them to the port of Mocha, പ്രകോപനരഹിതമായ ഈ ആക്രമണത്തെ ഇന്ത്യ ശക്തമായി അപലപിക്കുന്നു",
@@ -112,34 +196,6 @@
     "articlePath": null
   },
   {
-    "id": "514f9daaa601572f",
-    "title": "Accused in Mavoor police attack case arrested from Wayanad hideout",
-    "summary": "Police arrested the final suspect, Harshad K P, for an explosive device attack on officers in Mavoor, injuring them. He was apprehended in Wayanad after evading capture.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/08/04/accused-in-mavoor-police-attack-case-arrested-from-wayanad-hideout.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-08-04T16:30:42.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/514f9daaa601572f.json"
-  },
-  {
-    "id": "680f15a36293da56",
-    "title": "Kochi Plus One student ragging case: FIR registered after one accused found to be adult",
-    "summary": "A First Information Report (FIR) has been registered by police concerning an alleged ragging incident at a higher secondary school in Keezhillam, Kerala.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/08/04/kochi-plus-one-student-ragging-case-fir-registered-after-one-accused-student-found-to-be-adult.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-08-04T16:21:34.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/680f15a36293da56.json"
-  },
-  {
     "id": "2c28a9a1bff5f9d8",
     "title": "നാളെ സ്‌കൂള്‍ അവധി ഈ ജില്ലകളില്‍.. അതിതീവ്രമഴയ്ക്ക് സാധ്യതയെന്ന് മുന്നറിയിപ്പ്",
     "summary": "School Holiday Tomorrow Amid Heavy Rain; Professional Colleges Included – Know the Detailsനാളേയും സ്കൂൾ അവധി പ്രഖ്യാപിച്ച് വയനാട് ജില്ലാ കളക്ടർ; പ്രൊഫഷണൽ കോളേജുകൾക്കും അവധി ബാധകം",
@@ -154,20 +210,6 @@
     "articlePath": null
   },
   {
-    "id": "7009c0c222f97d72",
-    "title": "Wild elephants destroy cardamom crops in Idukki",
-    "summary": "Wild elephants have caused extensive damage to cardamom plantations in Vandiperiyar, near Kumily, by entering farmland.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/08/04/wild-elephants-destroy-cardamom-crops-in-idukki.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-08-04T15:40:42.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/7009c0c222f97d72.json"
-  },
-  {
     "id": "90c41adc88123ec7",
     "title": "'സ്ത്രീകളുടെ ആത്മാഭിമാനത്തെ ചവിട്ടി മെതിക്കുന്നു, അങ്ങേയറ്റം നിന്ദ്യം', ഗതാഗതമന്ത്രിക്കെതിരെ പിണറായി വിജയൻ",
     "summary": "''They Are Trampling on Women's Dignity; It's Utterly Shameful\": Pinarayi Vijayan Slams the Transport Minister CP John|'സ്ത്രീകളുടെ ആത്മാഭിമാനത്തെ ചവിട്ടി മെതിക്കുന്നു, അങ്ങേയറ്റം നിന്ദ്യം', ഗതാഗതമന്ത്രിക്കെതിരെ പിണറായി...",
@@ -180,20 +222,6 @@
     "hasImage": true,
     "hasArticleContent": false,
     "articlePath": null
-  },
-  {
-    "id": "0a39a658f40ee9fe",
-    "title": "Nurses call off 141-day strike at Jubilee Mission Hospital after settlement",
-    "summary": "Thrissur nurses' 141-day strike ended after a settlement on wage hikes and service conditions, with reinstatement by August 30 and renewed contracts agreed.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/08/04/nurses-call-off-141-day-strike-at-jubilee-mission-hospital-after-settlement.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-08-04T15:22:02.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/0a39a658f40ee9fe.json"
   },
   {
     "id": "4c12aef417a81c49",
@@ -222,20 +250,6 @@
     "hasImage": true,
     "hasArticleContent": false,
     "articlePath": null
-  },
-  {
-    "id": "83645ee60585fadf",
-    "title": "Has CM Satheesan lied about his helicopter ride to Kochi? CPM is certain",
-    "summary": "CPM leaders allege the Chief Minister lied about using a helicopter for investor meetings, questioning the secrecy and his solo travel, comparing it to perceived government neglect in a rescue.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/08/04/has-cm-satheesan-lied-about-his-helicopter-ride-to-kochi-cpm-is-certain.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-08-04T14:48:55.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/83645ee60585fadf.json"
   },
   {
     "id": "1b028ce406525cfe",
@@ -541,20 +555,6 @@
     "language": "ml",
     "publishedAt": "2026-08-04T01:39:08.000Z",
     "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/08/rain-78761785806742.jpg",
-    "hasImage": true,
-    "hasArticleContent": false,
-    "articlePath": null
-  },
-  {
-    "id": "afcca767df561967",
-    "title": "മോദിയുടെ വീഡിയോ നീക്കം ചെയ്ത സംഭവം; സുക്കര്‍ബര്‍ഗ് മാപ്പ് പറയണമെന്ന് ബിജെപി",
-    "summary": "Narendra Modi Video |This move casts doubt on Zuckerberg's sincerity, പാര്‍ലമെന്ററി സ്റ്റാന്‍ഡിംഗ് കമ്മിറ്റി യോഗത്തിന് ശേഷമാണ് അദ്ദേഹത്തിന്റെ പ്രതികരണം",
-    "url": "https://malayalam.oneindia.com/news/india/narendra-modi-video-parliament-panel-chief-demands-apology-from-meta-ceo-mark-zuckerberg-details-592973.html",
-    "source": "OneIndia",
-    "category": "Malayalam",
-    "language": "ml",
-    "publishedAt": "2026-08-03T18:35:50.000Z",
-    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/08/maerks-47821785779621.jpg",
     "hasImage": true,
     "hasArticleContent": false,
     "articlePath": null
