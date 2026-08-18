@@ -1,19 +1,5 @@
 [
   {
-    "id": "d77d3d51a6a4dacc",
-    "title": "അംബേദ്കറിന്റെ സ്വപ്നം പൂർത്തിയാക്കാൻ എൻഡിഎയിലേക്ക് വരൂ, അഭിജീത് ദീപ്കെയെ ക്ഷണിച്ച് കേന്ദ്ര മന്ത്രി",
-    "summary": "''Join the NDA to fulfill Ambedkar's dream,\" Union Minister invites CJP's Abhijeet Dipke.| അംബേദ്കറിന്റെ സ്വപ്നം പൂർത്തിയാക്കാൻ എൻഡിഎയിലേക്ക് വരൂ, അഭിജീത് ദീപ്കെയെ ക്ഷണിച്ച് കേന്ദ്ര മന്ത്രി",
-    "url": "https://malayalam.oneindia.com/news/india/join-the-nda-to-fulfill-ambedkar-s-dream-union-minister-invites-cjps-abhijeet-dipke-594953.html",
-    "source": "OneIndia",
-    "category": "Malayalam",
-    "language": "ml",
-    "publishedAt": "2026-08-18T18:22:25.000Z",
-    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/08/1-62241787077274.jpg",
-    "hasImage": true,
-    "hasArticleContent": false,
-    "articlePath": null
-  },
-  {
     "id": "babe8f458b78bebc",
     "title": "1 ലക്ഷവും കടന്ന് ഗൾഫിലേക്കും തിരിച്ചുമുളള ടിക്കറ്റ് നിരക്കുകൾ, കേന്ദ്ര വ്യോമയാന മന്ത്രിക്ക് കത്തയച്ച് പിണറായി",
     "summary": "Airfare to and from the Gulf Surges Past ₹1 Lakh; Pinarayi Writes to Union Civil Aviation Minister | 1 ലക്ഷവും കടന്ന് ഗൾഫിലേക്കും തിരിച്ചുമുളള ടിക്കറ്റ് നിരക്കുകൾ, കേന്ദ്ര വ്യോമയാന മന്ത്രിക്ക് കത്തയച്ച് പിണറായി",
@@ -21,8 +7,36 @@
     "source": "OneIndia",
     "category": "Malayalam",
     "language": "ml",
-    "publishedAt": "2026-08-18T18:14:35.000Z",
+    "publishedAt": "2026-08-18T19:16:57.000Z",
     "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/08/1-82881787076771.jpg",
+    "hasImage": true,
+    "hasArticleContent": false,
+    "articlePath": null
+  },
+  {
+    "id": "4b926aa99349dcad",
+    "title": "കള്ളക്കടൽ ജാഗ്രതാ നിർദേശം; എല്ലാ തീരദേശ ജില്ലകളിലും റെഡ് അലർട്ട്",
+    "summary": "Red Alert Issued in All Coastal Districts, High Alert for sudden sea surge| കള്ളക്കടൽ ജാഗ്രതാ നിർദേശം; എല്ലാ തീരദേശ ജില്ലകളിലും റെഡ് അലർട്ട്",
+    "url": "https://malayalam.oneindia.com/news/kerala/red-alert-issued-in-all-coastal-districts-high-alert-for-sudden-sea-surge-594947.html",
+    "source": "OneIndia",
+    "category": "Malayalam",
+    "language": "ml",
+    "publishedAt": "2026-08-18T19:15:24.000Z",
+    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/08/2-44561787073505.jpg",
+    "hasImage": true,
+    "hasArticleContent": false,
+    "articlePath": null
+  },
+  {
+    "id": "d77d3d51a6a4dacc",
+    "title": "അംബേദ്കറിന്റെ സ്വപ്നം പൂർത്തിയാക്കാൻ എൻഡിഎയിലേക്ക് വരൂ, അഭിജീത് ദീപ്കെയെ ക്ഷണിച്ച് കേന്ദ്ര മന്ത്രി",
+    "summary": "''Join the NDA to fulfill Ambedkar's dream,\" Union Minister invites CJP's Abhijeet Dipke.| അംബേദ്കറിന്റെ സ്വപ്നം പൂർത്തിയാക്കാൻ എൻഡിഎയിലേക്ക് വരൂ, അഭിജീത് ദീപ്കെയെ ക്ഷണിച്ച് കേന്ദ്ര മന്ത്രി",
+    "url": "https://malayalam.oneindia.com/news/india/join-the-nda-to-fulfill-ambedkar-s-dream-union-minister-invites-cjps-abhijeet-dipke-594953.html",
+    "source": "OneIndia",
+    "category": "Malayalam",
+    "language": "ml",
+    "publishedAt": "2026-08-18T19:11:47.000Z",
+    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/08/1-62241787077274.jpg",
     "hasImage": true,
     "hasArticleContent": false,
     "articlePath": null
@@ -40,20 +54,6 @@
     "hasImage": false,
     "hasArticleContent": true,
     "articlePath": "data/articles/9da9685c1ba31d57.json"
-  },
-  {
-    "id": "4b926aa99349dcad",
-    "title": "കള്ളക്കടൽ ജാഗ്രതാ നിർദേശം; എല്ലാ തീരദേശ ജില്ലകളിലും റെഡ് അലർട്ട്",
-    "summary": "Red Alert Issued in All Coastal Districts, High Alert for sudden sea surge| കള്ളക്കടൽ ജാഗ്രതാ നിർദേശം; എല്ലാ തീരദേശ ജില്ലകളിലും റെഡ് അലർട്ട്",
-    "url": "https://malayalam.oneindia.com/news/kerala/red-alert-issued-in-all-coastal-districts-high-alert-for-sudden-sea-surge-594947.html",
-    "source": "OneIndia",
-    "category": "Malayalam",
-    "language": "ml",
-    "publishedAt": "2026-08-18T17:20:11.000Z",
-    "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/08/2-44561787073505.jpg",
-    "hasImage": true,
-    "hasArticleContent": false,
-    "articlePath": null
   },
   {
     "id": "801391d6aed4992c",
