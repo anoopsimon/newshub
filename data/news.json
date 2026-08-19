@@ -7,11 +7,39 @@
     "source": "OneIndia",
     "category": "Malayalam",
     "language": "ml",
-    "publishedAt": "2026-08-19T17:56:04.000Z",
+    "publishedAt": "2026-08-19T19:21:04.000Z",
     "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/08/1-69491787162125.jpg",
     "hasImage": true,
     "hasArticleContent": false,
     "articlePath": null
+  },
+  {
+    "id": "5e8ff57f4eafd7c2",
+    "title": "Underground cave discovered under newly built home in Kasaragod highlights the vital need for soil testing",
+    "summary": "During the festive season of Onam, Keralites fondly celebrate the annual return of the legendary King Mahabali from the underworld. However, in Kasaragod, a literal pathway to the underworld made an unexpected and...",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/08/19/big-cave-found-after-house-finished-unseen-danger.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-08-19T18:59:59.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/5e8ff57f4eafd7c2.json"
+  },
+  {
+    "id": "b547ff469eb85d46",
+    "title": "Kerala man dies on Sharjah park bench unnoticed as red tape delays repatriation of body",
+    "summary": "Bureaucratic delays prevent the repatriation of a Kerala migrant worker's body from Sharjah. DNA tests are required for identification due to estrangement, leaving his grieving family in India waiting for his return.",
+    "url": "https://www.onmanorama.com/kerala/top-news/2026/08/19/malayali-pravasi-shajahan-dies-alone-in-sharjah.html",
+    "source": "Onmanorama",
+    "category": "Kerala",
+    "language": "en",
+    "publishedAt": "2026-08-19T18:58:27.000Z",
+    "image": null,
+    "hasImage": false,
+    "hasArticleContent": true,
+    "articlePath": "data/articles/b547ff469eb85d46.json"
   },
   {
     "id": "8da8eb62f9508ecf",
@@ -126,20 +154,6 @@
     "articlePath": "data/articles/b3643b66bf18435f.json"
   },
   {
-    "id": "5e8ff57f4eafd7c2",
-    "title": "Underground cave discovered under newly built home in Kasaragod highlights the vital need for soil testing",
-    "summary": "During the festive season of Onam, Keralites fondly celebrate the annual return of the legendary King Mahabali from the underworld. However, in Kasaragod, a literal pathway to the underworld made an unexpected and...",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/08/19/big-cave-found-after-house-finished-unseen-danger.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-08-19T15:54:17.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/5e8ff57f4eafd7c2.json"
-  },
-  {
     "id": "54f6b183de8ec102",
     "title": "സെൻസസിൽ മതത്തെക്കുറിച്ച് ചോദ്യം, പൗരത്വത്തെ മതവുമായി ബന്ധിപ്പിക്കുന്ന നയം അംഗീകരിക്കാനാകില്ലെന്ന് പിണറായി",
     "summary": "Question on religion in the Census; Pinarayi Vijayan says a policy linking citizenship with religion cannot be accepted.| സെൻസസിൽ മതത്തെക്കുറിച്ച് ചോദ്യം, പൗരത്വത്തെ മതവുമായി ബന്ധിപ്പിക്കുന്ന നയം അംഗീകരിക്കാനാകില്ലെന്ന്...",
@@ -194,20 +208,6 @@
     "hasImage": false,
     "hasArticleContent": true,
     "articlePath": "data/articles/8c8e56a4c4f6f29f.json"
-  },
-  {
-    "id": "249c2813441c123d",
-    "title": "Vigilance to probe irregularities in KMSCL bleaching powder purchase: Minister K Muraleedharan",
-    "summary": "A Kerala minister has requested a vigilance investigation into alleged irregularities concerning the purchase of bleaching powder, citing a potential ₹7.32 crore expenditure.",
-    "url": "https://www.onmanorama.com/kerala/top-news/2026/08/19/vigilance-to-probe-irregularities-in-kmscl-bleaching-powder-purchase-minister-k-muraleedharan.html",
-    "source": "Onmanorama",
-    "category": "Kerala",
-    "language": "en",
-    "publishedAt": "2026-08-19T13:46:16.000Z",
-    "image": null,
-    "hasImage": false,
-    "hasArticleContent": true,
-    "articlePath": "data/articles/249c2813441c123d.json"
   },
   {
     "id": "688509f6cfdb67c4",
